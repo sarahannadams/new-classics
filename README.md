@@ -1,6 +1,6 @@
 # HELLO SARAH
 
-check out [La MaMa](www.lamama.org)
+check out [La MaMa](lamama.org)
 
 # HELLO ALICE
 
