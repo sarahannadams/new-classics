@@ -23,42 +23,53 @@ while page <= 9:
 
 	#identifying parent div that holds the elements we want to scrape
 	all_books = soup.find_all("div", attrs={"class": "productholder"})
-
+	
+	#looping through to pull out the elements we want
 	for book in all_books:
 
+		#title is under the h4 element class=author
 		h4_title = book.find("h4", attrs={"class": "title"})
 		title = h4_title.text
 
 		#print("Title: ",title)
 
+		#author is under the span element class=author
 		span_author = book.find("span", attrs={"class": "author"})
 		author = span_author.text
 
 		#print("Author: ",author)
 
+		#link to the corresponding page under a href
 		a_link = book.find("a")
 		rel_link = a_link["href"]
 		bookpage_link = "https://www.nyrb.com" + rel_link
 
 		#print(bookpage_link)
 
+		#link to the image under img src
 		img_src = book.find("img")
 		img_link = img_src["src"]
 		bookcover_link = "https:" + img_link
 
 		#print(bookcover_link)
 		
+		#setting up dictionary 
 		new_classics = {}
 		
+		#defining keys and values in dictionary
 		new_classics["title"] = title
 		new_classics["author"] = author
 		new_classics["book page link"] = bookpage_link
 		new_classics["image link"] = bookcover_link
 		
+		#appending our dictionary to our list of books
 		book_list.append(new_classics)
 	
+	#adding some sleep time just in case we're bothering NYRB
 	time.sleep(3)
 	
+	#telling it to go to the next page after a loop
 	page = page + 1
 
+	#dumping our list of dictionaries into a python file
 	json.dump(book_list, open("new_classics.json", "w"), indent=2)
