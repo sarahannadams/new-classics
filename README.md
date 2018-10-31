@@ -8,5 +8,8 @@ Countless lists of “100 Classics to Read” (or similar) exist for those works
 
 ## Project Steps
 
-##### Alice Griffin
-##### Sarah Ann Adams
+In Process...
+
+## Team Members
+##### Alice Griffin - [@AliceLGriff](https://twitter.com/AliceLGriff)
+##### Sarah Ann Adams - [@_sarahannadams](https://twitter.com/_sarahannadams)
