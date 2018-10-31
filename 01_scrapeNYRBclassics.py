@@ -27,7 +27,7 @@ while page <= 9:
 	#looping through to pull out the elements we want
 	for book in all_books:
 
-		#title is under the h4 element class=author
+		#title is under the h4 element class=title
 		h4_title = book.find("h4", attrs={"class": "title"})
 		title = h4_title.text
 
