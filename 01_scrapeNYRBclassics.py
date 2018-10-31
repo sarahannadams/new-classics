@@ -24,6 +24,8 @@ while page <= 9:
 	#identifying parent div that holds the elements we want to scrape
 	all_books = soup.find_all("div", attrs={"class": "productholder"})
 	
+	count=0
+	
 	#looping through to pull out the elements we want
 	for book in all_books:
 
@@ -53,14 +55,18 @@ while page <= 9:
 
 		#print(bookcover_link)
 		
+		#adding a count variable so that it counts each loop
+		count = count + 1
+		
 		#setting up dictionary 
 		new_classics = {}
 		
 		#defining keys and values in dictionary
+		new_classics["id"] = count
 		new_classics["title"] = title
 		new_classics["author"] = author
-		new_classics["book page link"] = bookpage_link
-		new_classics["image link"] = bookcover_link
+		new_classics["book_page_url"] = bookpage_link
+		new_classics["image_url"] = bookcover_link
 		
 		#appending our dictionary to our list of books
 		book_list.append(new_classics)
