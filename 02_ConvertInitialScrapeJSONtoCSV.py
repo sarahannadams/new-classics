@@ -30,4 +30,6 @@ for book in books_parsed:
 #closing our new csv file 	
 books_data.close()
 
+#The csv output is missing two authors (IDs 4 + 15) because those were not available via the initial scrape. Team members manually added the author names provided at the book_page_url. 
+
 #referred to http://blog.appliedinformaticsinc.com/how-to-parse-and-convert-json-to-csv-using-python/ for help
