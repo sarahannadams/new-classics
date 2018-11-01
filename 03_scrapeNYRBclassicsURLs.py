@@ -1,6 +1,13 @@
 from bs4 import BeautifulSoup
 import requests, json, time, re, csv
 
+def auth_translation_clean(str_input):
+
+	str_input = str_input.strip('\n')
+	str_input = str_input.strip()
+
+	return str_input
+
 book_info_list = []
 url_list = []
 
@@ -11,25 +18,30 @@ with open('new_classics.csv','r', encoding="utf-8") as f:
 	headers = next(reader)
 
 	for row in reader:
-		#how do we assign urls to the variable 
-		url = row
+		# how do we assign the rows to be the url variable used in the get request?
+		url_list.append(row[3])
 
-		# print("scraping!" + url)
-		nyrb_classics_book = requests.get(url)
+for url in url_list:
 
-		#setting the variable for the HTML of the page
-		page_html = nyrb_classics_book.text
+	# print("scraping!" + url)
+	nyrb_classics_book = requests.get(url)
 
-		#parsing our HTML with BeautifulSoup to give a BeautifulSoup object
-		soup = BeautifulSoup(page_html, "html.parser")
+	#setting the variable for the HTML of the page
+	page_html = nyrb_classics_book.text
 
-		#identifying the 1st parent div that holds the elements we want to scrape
-		all_info = soup.find_all("div", attrs={"class":"span8"})
+	#parsing our HTML with BeautifulSoup to give a BeautifulSoup object
+	soup = BeautifulSoup(page_html, "html.parser")
 
-		count=0
+	#identifying the 1st parent div that holds the elements we want to scrape
+	all_info = soup.find_all("div", attrs={"class":"span8"})
 
-		#looping through to pull out the elements we want
-		for item in all_info:
+	count=0
+
+	#looping through to pull out the elements we want
+	for item in all_info:
+
+		if item == None:
+			continue
 
 			#subtitle is under the span element class=subtitle
 			span_subtitle = item.find("span", attrs={"class": "subtitle"})
@@ -39,11 +51,7 @@ with open('new_classics.csv','r', encoding="utf-8") as f:
 
 			#author and translation information is under the h2 element class=combined-authors
 			h2_combined_authors = item.find("h2", attrs={"class": "combined-authors"})
-			authors_translation_x = h2_combined_authors.text
-			#this line strips the string of any new line carriage returns
-			authors_translation_y = authors_translation_x.strip('\n')
-			#this line strips the string of any extra spaces
-			authors_translation = authors_translation_y.strip()
+			authors_translation = auth_translation_clean(h2_combined_authors.text)
 
 			# print(authors_translation())
 
