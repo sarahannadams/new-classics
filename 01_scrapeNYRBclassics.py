@@ -5,7 +5,9 @@ import requests, json, time
 book_list = []
 
 #where the page number of URL starts
-page=0
+page=1
+
+count=0
 
 #setting while loop for scraping all 9 pages of books
 while page <= 9:
@@ -23,8 +25,6 @@ while page <= 9:
 
 	#identifying parent div that holds the elements we want to scrape
 	all_books = soup.find_all("div", attrs={"class": "productholder"})
-	
-	count=0
 	
 	#looping through to pull out the elements we want
 	for book in all_books:
@@ -53,21 +53,21 @@ while page <= 9:
 		img_link = img_src["src"]
 		bookcover_link = "https:" + img_link
 
-		#print(bookcover_link)
+		#print(bookcover_link)		
 		
 		#adding a count variable so that it counts each loop
 		count = count + 1
-		
+	
 		#setting up dictionary 
 		new_classics = {}
-		
+	
 		#defining keys and values in dictionary
 		new_classics["id"] = count
 		new_classics["title"] = title
 		new_classics["author"] = author
 		new_classics["book_page_url"] = bookpage_link
 		new_classics["image_url"] = bookcover_link
-		
+	
 		#appending our dictionary to our list of books
 		book_list.append(new_classics)
 	
@@ -80,5 +80,5 @@ while page <= 9:
 	#dumping our list of dictionaries into a JSON file
 	json.dump(book_list, open("new_classics.json", "w"), indent=2)
 	
-#prints the number of titles to command line (not included in JSON file)	
+#prints the number of titles to command line	
 print(len(book_list))
