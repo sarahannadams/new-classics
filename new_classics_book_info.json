@@ -1,9 +1,3092 @@
 [
   {
     "id": 1,
-    "subtitle": "Selected Stories",
     "author_translation_note": "by Julio Ram\u00f3n Ribeyro, edited and translated from the Spanish by Katherine Silver",
     "isbn": "9781681373232",
     "pub_date": "August 13, 2019"
+  },
+  {
+    "id": 2,
+    "author_translation_note": "by Fran\u00e7oise Gilot and Carlton Lake, with an introduction by Lisa Alther",
+    "isbn": "9781681373195",
+    "pub_date": "June 4, 2019"
+  },
+  {
+    "id": 3,
+    "author_translation_note": "by Jean-Patrick Manchette, translated from the French by Donald Nicholson-Smith",
+    "isbn": "9781681373171",
+    "pub_date": "August 13, 2019"
+  },
+  {
+    "id": 4,
+    "author_translation_note": "by Margarita Liberaki, translated from the Greek by Karen Van Dyck",
+    "isbn": "9781681373300",
+    "pub_date": "May 7, 2019"
+  },
+  {
+    "id": 5,
+    "author_translation_note": "by Kurt Tucholsky, translated from the German by Michael Hofmann",
+    "isbn": "9781681373348",
+    "pub_date": "July 9, 2019"
+  },
+  {
+    "id": 6,
+    "author_translation_note": "by Vasily Grossman, translated from the Russian by Robert Chandler and Elizabeth Chandler",
+    "isbn": "9781681373270",
+    "pub_date": "June 11, 2019"
+  },
+  {
+    "id": 7,
+    "author_translation_note": "by Walter Benjamin, translated from the German by Tess Lewis, edited and with an introduction by Samuel Titan",
+    "isbn": "9781681370583",
+    "pub_date": "March 19, 2019"
+  },
+  {
+    "id": 8,
+    "author_translation_note": "by Maxim Osipov, introduction by Sana Krasikov, edited by Boris Dralyuk, translated from the Russian by Boris Dralyuk, Alex Fleming, and Anne Marie Jackson",
+    "isbn": "9781681373324",
+    "pub_date": "April 9, 2019"
+  },
+  {
+    "id": 9,
+    "author_translation_note": "by Gregor von Rezzori, introduction by Joshua Cohen, translated from the German by David Dollenmayer, Joachim Neugroschel, and Marshall Yarbrough",
+    "isbn": "9781681373256",
+    "pub_date": "April 9, 2019"
+  },
+  {
+    "id": 10,
+    "author_translation_note": "by Lillian Ross, with a foreword by Anjelica Huston and an introduction by the author",
+    "isbn": "9781681373157",
+    "pub_date": "April 23, 2019"
+  },
+  {
+    "id": 11,
+    "author_translation_note": "by Emmanuel Bove, introduction by Garnette Cadogan, translated from the French by Janet Louth",
+    "isbn": "",
+    "pub_date": "March 26, 2019"
+  },
+  {
+    "id": 12,
+    "author_translation_note": "by Jean Giono, translated from the French by Alyson Waters, with an introduction by Susan Stewart",
+    "isbn": "9781681373096",
+    "pub_date": "April 16, 2019"
+  },
+  {
+    "id": 13,
+    "author_translation_note": "by John Williams",
+    "isbn": "9781681373072",
+    "pub_date": "February 12, 2019"
+  },
+  {
+    "id": 14,
+    "author_translation_note": "by Michael Walzer, with an introduction by Jon Wiener, and a new preface by the author",
+    "isbn": "9781681373539",
+    "pub_date": "February 5, 2019"
+  },
+  {
+    "id": 15,
+    "author_translation_note": "by Darius James, introduction by Amy Abugo Ongiri",
+    "isbn": "9781681373294",
+    "pub_date": "February 19, 2019"
+  },
+  {
+    "id": 16,
+    "author_translation_note": "by Victor Serge, translated from the French by Mitchell Abidor and Richard Greeman",
+    "isbn": "9781681372709",
+    "pub_date": "March 26, 2019"
+  },
+  {
+    "id": 17,
+    "author_translation_note": "by Multatuli, introduction by Pramoedya Ananta Toer, translated from the Dutch by Ina Rilke and David McKay",
+    "isbn": "9781681372624",
+    "pub_date": "February 26, 2019"
+  },
+  {
+    "id": 18,
+    "author_translation_note": "by Gabriele Tergit, introduction and translated from the German by Sophie Duvernoy",
+    "isbn": "9781681372723",
+    "pub_date": "April 30, 2019"
+  },
+  {
+    "id": 19,
+    "author_translation_note": "by Salka Viertel, introduction by Lawrence Weschler, afterword by Donna Rikfind",
+    "isbn": "9781681372747",
+    "pub_date": "January 15, 2019"
+  },
+  {
+    "id": 20,
+    "author_translation_note": "by Lev Ozerov, introduction by Boris Dralyuk, edited by Robert Chandler and Boris Dralyuk, translated from the Russian by Maria Bloshteyn, Robert Chandler, Boris Dralyuk, and Irina Mashinski",
+    "isbn": "9781681372686",
+    "pub_date": "December 4, 2018"
+  },
+  {
+    "id": 21,
+    "author_translation_note": "by J\u00f3zef Czapski, translated from the Polish by Antonia Lloyd-Jones, with an introduction by Timothy Snyder",
+    "isbn": "9781681372563",
+    "pub_date": "December 18, 2018"
+  },
+  {
+    "id": 22,
+    "author_translation_note": "by J\u00f3zef Czapski, introduction and translated from the French by Eric Karpeles",
+    "isbn": "9781681372587",
+    "pub_date": "November 6, 2018"
+  },
+  {
+    "id": 23,
+    "author_translation_note": "by Jean Am\u00e9ry, translated from the German by Adrian Nathan West",
+    "isbn": "9781681372501",
+    "pub_date": "September 4, 2018"
+  },
+  {
+    "id": 24,
+    "author_translation_note": "by Iris Origo, introduction by Virginia Nicholson",
+    "isbn": "9781681372662",
+    "pub_date": "August 7, 2018"
+  },
+  {
+    "id": 25,
+    "author_translation_note": "by Iris Origo, introduction by Lucy Hughes-Hallett, afterword by Katia Lysy",
+    "isbn": "9781681372648",
+    "pub_date": "August 7, 2018"
+  },
+  {
+    "id": 26,
+    "author_translation_note": "by Kenji Miyazawa, translated from the Japanese by John Bester",
+    "isbn": "9781681372600",
+    "pub_date": "October 2, 2018"
+  },
+  {
+    "id": 27,
+    "author_translation_note": "by Ivo Andri\u0107, introduction by William T. Vollmann, translated from the Serbo-Croatian by Celia Hawkesworth",
+    "isbn": "9781681372525",
+    "pub_date": "October 30, 2018"
+  },
+  {
+    "id": 28,
+    "author_translation_note": "by David R. Bunch, foreword by Jeff VanderMeer",
+    "isbn": "9781681372549",
+    "pub_date": "September 11, 2018"
+  },
+  {
+    "id": 29,
+    "author_translation_note": "by Lesley Blanch, introduction by Georgia de Chamberet",
+    "isbn": "9781681371931",
+    "pub_date": "July 10, 2018"
+  },
+  {
+    "id": 30,
+    "author_translation_note": "by Juan Eduardo Cirlot, introduction by Philip Pullman, translated from the Spanish by Jack Sage and Valerie Miles, epilogue by Victoria Cirlot",
+    "isbn": "9781681371979",
+    "pub_date": "April 23, 2019"
+  },
+  {
+    "id": 31,
+    "author_translation_note": "by Wolfgang Herrndorf, translated from the German by Tim Mohr, afterword by Michael Maar",
+    "isbn": "9781681372013",
+    "pub_date": "June 12, 2018"
+  },
+  {
+    "id": 32,
+    "author_translation_note": "by Tom Kristensen, translated from the Danish by Carl Malmberg, introduction by Morten H\u00f8i Jensen",
+    "isbn": "9781681372075",
+    "pub_date": "June 12, 2018"
+  },
+  {
+    "id": 33,
+    "author_translation_note": "by Anna Seghers, translated from the German by Margot Bettauer Dembo, afterword by Thomas von Steinaecker",
+    "isbn": "9781681372129",
+    "pub_date": "May 22, 2018"
+  },
+  {
+    "id": 34,
+    "author_translation_note": "by Robert Aickman, edited and with an introduction by Victoria Nelson",
+    "isbn": "9781681371894",
+    "pub_date": "May 8, 2018"
+  },
+  {
+    "id": 35,
+    "author_translation_note": "by Helen Weinzweig, afterword by Sarah Weinman",
+    "isbn": "9781681372167",
+    "pub_date": "April 17, 2018"
+  },
+  {
+    "id": 36,
+    "author_translation_note": "by Matei Calinescu, introduction by Norman Manea, translated from the Romanian by Adriana Calinescu and Breon Mitchell",
+    "isbn": "9781681371955",
+    "pub_date": "March 20, 2018"
+  },
+  {
+    "id": 37,
+    "author_translation_note": "by Sybille Bedford, with an introduction by the author",
+    "isbn": "9781681371917",
+    "pub_date": "June 5, 2018"
+  },
+  {
+    "id": 38,
+    "author_translation_note": "by Jean-Patrick Manchette, translated from the French by Donald Nicholson-Smith, introduction by Doug Headline, with an afterword by Gary Indiana",
+    "isbn": "9781681372105",
+    "pub_date": "May 1, 2018"
+  },
+  {
+    "id": 39,
+    "author_translation_note": "by Varlam Shalamov, translated from the Russian by Donald Rayfield",
+    "isbn": "9781681372143",
+    "pub_date": "June 12, 2018"
+  },
+  {
+    "id": 40,
+    "author_translation_note": "by Curzio Malaparte, translated from the Italian and with a foreword by Jenny McPhee",
+    "isbn": "9781681372099",
+    "pub_date": "April 10, 2018"
+  },
+  {
+    "id": 41,
+    "author_translation_note": "by Walter Kempowski, introduction by Jenny Erpenbeck, translated from the German by Anthea Bell",
+    "isbn": "9781681372051",
+    "pub_date": "February 13, 2018"
+  },
+  {
+    "id": 42,
+    "author_translation_note": "by Uwe Johnson, translated from the German by Damion Searls",
+    "isbn": "9781681372037",
+    "pub_date": "October 16, 2018"
+  },
+  {
+    "id": 43,
+    "author_translation_note": "by Alfred D\u00f6blin, translated from the German and with an introduction by Michael Hofmann",
+    "isbn": "9781681371993",
+    "pub_date": "March 6, 2018"
+  },
+  {
+    "id": 44,
+    "author_translation_note": "by Honor\u00e9 de Balzac, translated from the French by Jordan Stump, introduction by Morris Dickstein",
+    "isbn": "9781681371252",
+    "pub_date": "January 9, 2018"
+  },
+  {
+    "id": 45,
+    "author_translation_note": "by Barbara Comyns, introduction by Sadie Stein",
+    "isbn": "9781681371313",
+    "pub_date": "January 23, 2018"
+  },
+  {
+    "id": 46,
+    "author_translation_note": "by Julien Gracq, translated from the French and with a foreword by Richard Howard",
+    "isbn": "9781681371399",
+    "pub_date": "November 21, 2017"
+  },
+  {
+    "id": 47,
+    "author_translation_note": "by Fran\u00e7ois-Ren\u00e9 de Chateaubriand, translated from the French by Alex Andriesse, introduction by Anka Muhlstein",
+    "isbn": "9781681371290",
+    "pub_date": "February 20, 2018"
+  },
+  {
+    "id": 48,
+    "author_translation_note": "by Henry Green, introduction by Francine Prose",
+    "isbn": "9781681371436",
+    "pub_date": "October 17, 2017"
+  },
+  {
+    "id": 49,
+    "author_translation_note": "by Marina Tsvetaeva, translated from the Russian by Jamey Gambrell",
+    "isbn": "9781681371627",
+    "pub_date": "December 5, 2017"
+  },
+  {
+    "id": 50,
+    "author_translation_note": "by Henry Green, introduction by Michael Gorra",
+    "isbn": "9781681371412",
+    "pub_date": "October 17, 2017"
+  },
+  {
+    "id": 51,
+    "author_translation_note": "by Joan Sales, translated from the Catalan by Peter Bush, foreword by Juan Goytisolo",
+    "isbn": "9781681371801",
+    "pub_date": "October 10, 2017"
+  },
+  {
+    "id": 52,
+    "author_translation_note": "by Eileen Chang, translated by Jane Weizhen Pan and Martin Merz",
+    "isbn": "9781681371276",
+    "pub_date": "January 16, 2018"
+  },
+  {
+    "id": 53,
+    "author_translation_note": "by Elizabeth Hardwick, selected and with an introduction by Darryl Pinckney",
+    "isbn": "9781681371542",
+    "pub_date": "October 17, 2017"
+  },
+  {
+    "id": 54,
+    "author_translation_note": "by David Plante, introduction by Scott Spencer",
+    "isbn": "9781681371498",
+    "pub_date": "September 26, 2017"
+  },
+  {
+    "id": 55,
+    "author_translation_note": "by Richard Stern, introduction by Philip Roth, afterword by Wendy Doniger",
+    "isbn": "9781681371511",
+    "pub_date": "August 29, 2017"
+  },
+  {
+    "id": 56,
+    "author_translation_note": "by Jean Giono, introduction by Edmund White, a new translation from the French by Paul Eprile",
+    "isbn": "9781681371375",
+    "pub_date": "September 12, 2017"
+  },
+  {
+    "id": 57,
+    "author_translation_note": "by Dorothy B. Hughes, afterword by Megan Abbott",
+    "isbn": "9781681371474",
+    "pub_date": "August 15, 2017"
+  },
+  {
+    "id": 58,
+    "author_translation_note": "by Magda Szab\u00f3, translated from the Hungarian by Len Rix",
+    "isbn": "9781681371528",
+    "pub_date": "September 12, 2017"
+  },
+  {
+    "id": 59,
+    "author_translation_note": "by Louis Guilloux, introduction by Alice Kaplan, translated from the French by Laura Marris",
+    "isbn": "9781681371450",
+    "pub_date": "October 17, 2017"
+  },
+  {
+    "id": 60,
+    "author_translation_note": "by Guido Morselli, a new translation from the Italian by Frederika Randall, introduction by Elizabeth McKenzie",
+    "isbn": "9781681370781",
+    "pub_date": "September 19, 2017"
+  },
+  {
+    "id": 61,
+    "author_translation_note": "by Patrick Leigh Fermor, introduction by James Campbell",
+    "isbn": "9781590177822",
+    "pub_date": "July 11, 2017"
+  },
+  {
+    "id": 62,
+    "author_translation_note": "by Thorkild Hansen, introduction by Colin Thubron, translated from the Danish by James McFarlane and Kathleen McFarlane",
+    "isbn": "9781681370729",
+    "pub_date": "June 13, 2017"
+  },
+  {
+    "id": 63,
+    "author_translation_note": "by Qiu Miaojin, a new translation from the Chinese by Bonnie Huie",
+    "isbn": "9781681370767",
+    "pub_date": "May 2, 2017"
+  },
+  {
+    "id": 64,
+    "author_translation_note": "by Alice Goodman, introduction and historical notes by James Williams",
+    "isbn": "9781681370644",
+    "pub_date": "July 18, 2017"
+  },
+  {
+    "id": 65,
+    "author_translation_note": "by Alice Herdan-Zuckmayer, introduction by Elisa Albert, translated from the German by Ida H. Washington and Carol E. Washington",
+    "isbn": "9781681370743",
+    "pub_date": "May 2, 2017"
+  },
+  {
+    "id": 66,
+    "author_translation_note": "by Norman Podhoretz, introduction by Terry Teachout",
+    "isbn": "9781681370804",
+    "pub_date": "April 11, 2017"
+  },
+  {
+    "id": 67,
+    "author_translation_note": "by Arthur Schnitzler, translation from the German by Alexander Starritt, afterword by Wilhelm Hemecker and David \u00d6sterle",
+    "isbn": "9781681370842",
+    "pub_date": "August 8, 2017"
+  },
+  {
+    "id": 68,
+    "author_translation_note": "by Umberto Saba, translated from the Italian by Estelle Gilson",
+    "isbn": "9781681370828",
+    "pub_date": "March 28, 2017"
+  },
+  {
+    "id": 69,
+    "author_translation_note": "by Leonora Carrington, introduction by Marina Warner",
+    "isbn": "9781681370606",
+    "pub_date": "April 18, 2017"
+  },
+  {
+    "id": 70,
+    "author_translation_note": "by Sybille Bedford, preface by Daniel Mendelsohn",
+    "isbn": "9781681370569",
+    "pub_date": "July 11, 2017"
+  },
+  {
+    "id": 71,
+    "author_translation_note": "by Henry Green, introduction by Amit Chaudhuri",
+    "isbn": "9781681370705",
+    "pub_date": "April 4, 2017"
+  },
+  {
+    "id": 72,
+    "author_translation_note": "by Henry Green, introduction by Adam Thirlwell",
+    "isbn": "9781681370682",
+    "pub_date": "March 14, 2017"
+  },
+  {
+    "id": 73,
+    "author_translation_note": "by Henry Green, introduction by Daniel Mendelsohn",
+    "isbn": "9781681370668",
+    "pub_date": "April 4, 2017"
+  },
+  {
+    "id": 74,
+    "author_translation_note": "selected and translated from the Occitan by Paul Blackburn, edited and with an introduction by George Economou",
+    "isbn": "9781681370309",
+    "pub_date": "January 10, 2017"
+  },
+  {
+    "id": 75,
+    "author_translation_note": "by Sigizmund Krzhizhanovsky, translated from the Russian by Joanne Turnbull with Nikolai Formozov",
+    "isbn": "9781681370286",
+    "pub_date": "December 13, 2016"
+  },
+  {
+    "id": 76,
+    "author_translation_note": "by Hans Herbert Grimm, translated from the German by Jamie Bulloch, afterword by Volker Weidermann",
+    "isbn": "9781681370262",
+    "pub_date": "November 15, 2016"
+  },
+  {
+    "id": 77,
+    "author_translation_note": "edited and translated from the Japanese by Yoel Hoffmann, introduction by Dror Burstein",
+    "isbn": "9781681370224",
+    "pub_date": "December 6, 2016"
+  },
+  {
+    "id": 78,
+    "author_translation_note": "by Guy de Maupassant, translated from the French by Richard Howard",
+    "isbn": "9781681370323",
+    "pub_date": "February 21, 2017"
+  },
+  {
+    "id": 79,
+    "author_translation_note": "by U.R. Ananthamurthy, Translated from the Kannada by A. K. Ramanujan",
+    "isbn": "9781590179123",
+    "pub_date": "January 10, 2017"
+  },
+  {
+    "id": 80,
+    "author_translation_note": "by Robert Bresson, introduction by J.M.G Le Cl\u00e9zio, translated from the French by Jonathan Griffin",
+    "isbn": "9781681370248",
+    "pub_date": "November 15, 2016"
+  },
+  {
+    "id": 81,
+    "author_translation_note": "by Henry Green, introduction by Deborah Eisenberg",
+    "isbn": "9781681370101",
+    "pub_date": "October 18, 2016"
+  },
+  {
+    "id": 82,
+    "author_translation_note": "by Magda Szab\u00f3, translated from the Hungarian and with an introduction by George Szirtes",
+    "isbn": "9781681370347",
+    "pub_date": "October 18, 2016"
+  },
+  {
+    "id": 83,
+    "author_translation_note": "by Leopoldo Alas, translated from the Spanish and with an introduction by Margaret Jull Costa",
+    "isbn": "9781681370187",
+    "pub_date": "October 4, 2016"
+  },
+  {
+    "id": 84,
+    "author_translation_note": "by Thomas Flanagan",
+    "isbn": "9781590179307",
+    "pub_date": "April 5, 2016"
+  },
+  {
+    "id": 85,
+    "author_translation_note": "by Thomas Flanagan",
+    "isbn": "9781590179291",
+    "pub_date": "April 5, 2016"
+  },
+  {
+    "id": 86,
+    "author_translation_note": "by Henry Green, introduction by James Wood",
+    "isbn": "9781681370125",
+    "pub_date": "November 22, 2016"
+  },
+  {
+    "id": 87,
+    "author_translation_note": "by Henry Green, introduction by Roxana Robinson",
+    "isbn": "9781681370149",
+    "pub_date": "October 18, 2016"
+  },
+  {
+    "id": 88,
+    "author_translation_note": "by Robert Walser, a new translation from the German by Tom Whalen, with Nicole K\u00f6ngeter and Annette Wiesner, afterword by Tom Whalen",
+    "isbn": "9781681370163",
+    "pub_date": "September 13, 2016"
+  },
+  {
+    "id": 89,
+    "author_translation_note": "by Eve Babitz, introduction by Matthew Specktor",
+    "isbn": "9781681370088",
+    "pub_date": "August 30, 2016"
+  },
+  {
+    "id": 90,
+    "author_translation_note": "by Ge Fei, translated from the Chinese by Canaan Morse",
+    "isbn": "9781681370200",
+    "pub_date": "October 11, 2016"
+  },
+  {
+    "id": 91,
+    "author_translation_note": "by Teffi, a new translation from the Russian by Robert Chandler, Rose France, and Anne Marie Jackson",
+    "isbn": "9781590179963",
+    "pub_date": "May 3, 2016"
+  },
+  {
+    "id": 92,
+    "author_translation_note": "by Alfred D\u00f6blin, introduction by G\u00fcnter Grass, translated from the German by Damion Searls",
+    "isbn": "9781590179734",
+    "pub_date": "October 25, 2016"
+  },
+  {
+    "id": 93,
+    "author_translation_note": "by D. G. Compton, introduction by Jeff VanderMeer",
+    "isbn": "9781590179710",
+    "pub_date": "July 5, 2016"
+  },
+  {
+    "id": 94,
+    "author_translation_note": "by Sybille Bedford, introduction by Bruce Chatwin",
+    "isbn": "9781590179697",
+    "pub_date": "June 21, 2016"
+  },
+  {
+    "id": 95,
+    "author_translation_note": "by Vicki Baum, translated from the German by Basil Creighton, revised by Margot Bettauer Dembo, introduction by Noah Isenberg",
+    "isbn": "9781590179673",
+    "pub_date": "June 7, 2016"
+  },
+  {
+    "id": 96,
+    "author_translation_note": "by Jean d'Ormesson, translated from the French by Barbara Bray, introduction by Daniel Mendelsohn",
+    "isbn": "9781590179659",
+    "pub_date": "May 3, 2016"
+  },
+  {
+    "id": 97,
+    "author_translation_note": "by Mavis Gallant, introduction by Peter Orner",
+    "isbn": "9781590179871",
+    "pub_date": "April 26, 2016"
+  },
+  {
+    "id": 98,
+    "author_translation_note": "by Jean-Paul Cl\u00e9bert, a new translation from the French by Donald Nicholson-Smith, photographs by Patrice Molinard, foreword by Luc Sante",
+    "isbn": "9781590179574",
+    "pub_date": "April 12, 2016"
+  },
+  {
+    "id": 99,
+    "author_translation_note": "by Patrick Modiano, a new translation from the French by Damion Searls",
+    "isbn": "9781590179550",
+    "pub_date": "March 8, 2016"
+  },
+  {
+    "id": 100,
+    "author_translation_note": "by Patrick Modiano, a new translation from the French by Chris Clarke",
+    "isbn": "9781590179536",
+    "pub_date": "March 8, 2016"
+  },
+  {
+    "id": 101,
+    "author_translation_note": "by Teffi, a new translation from the Russian by Robert Chandler and Elizabeth Chandler, Irina Steinberg, and Anne Marie Jackson, introduction by Edythe Haber",
+    "isbn": "9781590179512",
+    "pub_date": "May 3, 2016"
+  },
+  {
+    "id": 102,
+    "author_translation_note": "selected by John Williams, introduction by Robert Pinsky",
+    "isbn": "9781590179772",
+    "pub_date": "February 23, 2016"
+  },
+  {
+    "id": 103,
+    "author_translation_note": "by Eleanor Per\u00e9nyi, introduction by J.D. McClatchy",
+    "isbn": "9781590179499",
+    "pub_date": "February 16, 2016"
+  },
+  {
+    "id": 104,
+    "author_translation_note": "by Borislav Peki\u0107, introduction by Barry Schwabsky, translated from the Serbo-Croatian by Bernard Johnson",
+    "isbn": "9781590179475",
+    "pub_date": "April 5, 2016"
+  },
+  {
+    "id": 105,
+    "author_translation_note": "by Mezz Mezzrow and Bernard Wolfe, introduction by Ben Ratliff",
+    "isbn": "9781590179451",
+    "pub_date": "February 23, 2016"
+  },
+  {
+    "id": 106,
+    "author_translation_note": "by Jean Giono, introduction by David Abram, a new translation from the French by Paul Eprile",
+    "isbn": "9781590179185",
+    "pub_date": "April 5, 2016"
+  },
+  {
+    "id": 107,
+    "author_translation_note": "by Miron Bia\u0142oszewski, translated from the Polish by Madeline G. Levine",
+    "isbn": "9781590176658",
+    "pub_date": "October 27, 2015"
+  },
+  {
+    "id": 108,
+    "author_translation_note": "by Roberto Arlt, introduction by Julio Cort\u00e1zar, translated from the Spanish by Nick Caistor",
+    "isbn": "9781590179147",
+    "pub_date": "December 22, 2015"
+  },
+  {
+    "id": 109,
+    "author_translation_note": "by William Sloane, introduction by Stephen King",
+    "isbn": "9781590179062",
+    "pub_date": "October 6, 2015"
+  },
+  {
+    "id": 110,
+    "author_translation_note": "by George Psychoundakis, translated from the Greek and with an introduction by Patrick Leigh Fermor",
+    "isbn": "9781590179048",
+    "pub_date": "November 3, 2015"
+  },
+  {
+    "id": 111,
+    "author_translation_note": "by Aleksandar Ti\u0161ma, introduction by Charles Simic, translated from the Serbo-Croatian by Michael Henry Heim",
+    "isbn": "9781590179208",
+    "pub_date": "February 9, 2016"
+  },
+  {
+    "id": 112,
+    "author_translation_note": "by John Williams, introduction by John McGahern",
+    "isbn": "9781590179284",
+    "pub_date": "November 3, 2015"
+  },
+  {
+    "id": 113,
+    "author_translation_note": "by Barbara Comyns, introduction by Emily Gould",
+    "isbn": "9781590178966",
+    "pub_date": "November 10, 2015"
+  },
+  {
+    "id": 114,
+    "author_translation_note": "by Jakob Wassermann, translated from the German and with an introduction by Michael Hofmann",
+    "isbn": "9781590179222",
+    "pub_date": "January 26, 2016"
+  },
+  {
+    "id": 115,
+    "author_translation_note": "by Benjamin Fondane, edited, introduced, and translated from the French by Bruce Baugh",
+    "isbn": "9781590178980",
+    "pub_date": "May 17, 2016"
+  },
+  {
+    "id": 116,
+    "author_translation_note": "by Agnes de Mille, introduction by Joan Acocella",
+    "isbn": "9781590179086",
+    "pub_date": "November 24, 2015"
+  },
+  {
+    "id": 117,
+    "author_translation_note": "by Elliott Chaze, introduction by Barry Gifford",
+    "isbn": "9781590179161",
+    "pub_date": "January 19, 2016"
+  },
+  {
+    "id": 118,
+    "author_translation_note": "by Leonard Gardner, introduction by Denis Johnson",
+    "isbn": "9781590178928",
+    "pub_date": "September 8, 2015"
+  },
+  {
+    "id": 119,
+    "author_translation_note": "by Eve Babitz, introduction by Holly Brubach",
+    "isbn": "9781590178904",
+    "pub_date": "October 6, 2015"
+  },
+  {
+    "id": 120,
+    "author_translation_note": "by Friedrich Nietzsche, edited with an introduction and notes by Paul Reitter and Chad Wellmon, translated from the German by Damion Searls",
+    "isbn": "9781590178942",
+    "pub_date": "December 15, 2015"
+  },
+  {
+    "id": 121,
+    "author_translation_note": "by Antonio di Benedetto, translated from the Spanish and with a preface by Esther Allen",
+    "isbn": "9781590177174",
+    "pub_date": "August 23, 2016"
+  },
+  {
+    "id": 122,
+    "author_translation_note": "by Dorothy Baker, afterword by Gary Giddins",
+    "isbn": "9781590175774",
+    "pub_date": "September 11, 2012"
+  },
+  {
+    "id": 123,
+    "author_translation_note": "by Elizabeth Taylor, selected and with an introduction by Margaret Drabble",
+    "isbn": "9781590177273",
+    "pub_date": "September 23, 2014"
+  },
+  {
+    "id": 124,
+    "author_translation_note": "by Raymond Queneau, translated and with an introduction by Barbara Wright",
+    "isbn": "9781590170311",
+    "pub_date": "January 31, 2003"
+  },
+  {
+    "id": 125,
+    "author_translation_note": "by Stephen Benatar, introduction by John Carey",
+    "isbn": "9781590173350",
+    "pub_date": "January 19, 2010"
+  },
+  {
+    "id": 126,
+    "author_translation_note": "by Tatyana Tolstaya, translated from the Russian by Jamey Gambrell and  Antonina W. Bouis",
+    "isbn": "9781590171974",
+    "pub_date": "April 17, 2007"
+  },
+  {
+    "id": 127,
+    "author_translation_note": "by Marc Fumaroli, translated from the French by Richard Howard",
+    "isbn": "9781590173756",
+    "pub_date": "June 14, 2011"
+  },
+  {
+    "id": 128,
+    "author_translation_note": "by J.F. Powers, introduction by Katherine A. Powers",
+    "isbn": "9780940322240",
+    "pub_date": "May 31, 2000"
+  },
+  {
+    "id": 129,
+    "author_translation_note": "by James Schuyler, afterword by James McCourt",
+    "isbn": "9781590171677",
+    "pub_date": "December 22, 2005"
+  },
+  {
+    "id": 130,
+    "author_translation_note": "by J. R. Ackerley, introduction by P. N. Furbank",
+    "isbn": "9781590173954",
+    "pub_date": "March 22, 2011"
+  },
+  {
+    "id": 131,
+    "author_translation_note": "by Jean-Paul Sartre, edited by Ronald Aronson, edited by Adrian van den Hoven",
+    "isbn": "9781590174937",
+    "pub_date": "June 4, 2013"
+  },
+  {
+    "id": 132,
+    "author_translation_note": "by Raymond Queneau, introduction by John Updike, translated from the French by Barbara Wright",
+    "isbn": "9781590170304",
+    "pub_date": "January 31, 2003"
+  },
+  {
+    "id": 133,
+    "author_translation_note": "by Oakley Hall, introduction by Robert Stone",
+    "isbn": "9781590171615",
+    "pub_date": "November 21, 2005"
+  },
+  {
+    "id": 134,
+    "author_translation_note": "by Simone Weil, by Rachel Bespaloff, introduction by Christopher Benfey, afterword by Hermann Broch, translated from the French by Mary McCarthy",
+    "isbn": "9781590171455",
+    "pub_date": "March 1, 2005"
+  },
+  {
+    "id": 135,
+    "author_translation_note": "by Gershom Scholem, introduction by Lee Siegel, translated from the German by Harry Zohn",
+    "isbn": "9781590170328",
+    "pub_date": "April 30, 2003"
+  },
+  {
+    "id": 136,
+    "author_translation_note": "by James Vance Marshall, introduction by Lee Siegel",
+    "isbn": "9781590174906",
+    "pub_date": "January 17, 2012"
+  },
+  {
+    "id": 137,
+    "author_translation_note": "edited by W.H. Auden",
+    "isbn": "9781590170892",
+    "pub_date": "July 31, 2004"
+  },
+  {
+    "id": 138,
+    "author_translation_note": "by Nancy Mitford, introduction by Adam Gopnik",
+    "isbn": "9781590175781",
+    "pub_date": "November 6, 2012"
+  },
+  {
+    "id": 139,
+    "author_translation_note": "by Ivan Turgenev, introduction by Charlotte Hobson, translated from the Russian by Constance Garnett",
+    "isbn": "9780940322455",
+    "pub_date": "August 31, 2000"
+  },
+  {
+    "id": 140,
+    "author_translation_note": "by Maude Hutchins, introduction by Terry Castle",
+    "isbn": "9781590172704",
+    "pub_date": "August 19, 2008"
+  },
+  {
+    "id": 141,
+    "author_translation_note": "by Mavis Gallant, selected and with an introduction by Russell Banks",
+    "isbn": "9781590170601",
+    "pub_date": "November 30, 2003"
+  },
+  {
+    "id": 142,
+    "author_translation_note": "edited by Edwin Frank",
+    "isbn": "9781590170779",
+    "pub_date": "July 31, 2003"
+  },
+  {
+    "id": 143,
+    "author_translation_note": "by Victor Serge, translated from the French and with an introduction by Richard Greeman",
+    "isbn": "9781590172476",
+    "pub_date": "February 19, 2008"
+  },
+  {
+    "id": 144,
+    "author_translation_note": "by Ramon del Valle-Incl\u00e1n, introduction by Alberto Manguel, translated from the Spanish by Peter Bush",
+    "isbn": "9781590174982",
+    "pub_date": "August 14, 2012"
+  },
+  {
+    "id": 145,
+    "author_translation_note": "by Patrick Hamilton, introduction by Susanna Moore",
+    "isbn": "9781590172568",
+    "pub_date": "February 19, 2008"
+  },
+  {
+    "id": 146,
+    "author_translation_note": "by Nathaniel Hawthorne, introduction by Paul Auster",
+    "isbn": "9781590170427",
+    "pub_date": "May 31, 2003"
+  },
+  {
+    "id": 147,
+    "author_translation_note": "by Russell Hoban, introduction by Ed Park",
+    "isbn": "9781590176467",
+    "pub_date": "June 11, 2013"
+  },
+  {
+    "id": 148,
+    "author_translation_note": "by Yasushi Inoue, translated from the Japanese by Jean Oda Moy, preface by Damion Searls",
+    "isbn": "9781590173626",
+    "pub_date": "November 9, 2010"
+  },
+  {
+    "id": 149,
+    "author_translation_note": "by J.G. Farrell, introduction by John Banville",
+    "isbn": "9781590170182",
+    "pub_date": "October 31, 2002"
+  },
+  {
+    "id": 150,
+    "author_translation_note": "by Georges Simenon, introduction by Norman Rush, translated from the French by Marc Romano",
+    "isbn": "9781590171110",
+    "pub_date": "August 31, 2005"
+  },
+  {
+    "id": 151,
+    "author_translation_note": "by Benito P\u00e9rez Gald\u00f3s, introduction by Jeremy Treglown, a new translation from the Spanish by Margaret Jull Costa",
+    "isbn": "9781590177655",
+    "pub_date": "December 2, 2014"
+  },
+  {
+    "id": 152,
+    "author_translation_note": "by Anna Seghers, introduction by Peter Conrad, afterword by Heinrich B\u00f6ll, translated from the German by Margot Bettauer Dembo",
+    "isbn": "9781590176252",
+    "pub_date": "May 7, 2013"
+  },
+  {
+    "id": 153,
+    "author_translation_note": "by Sanford Friedman, afterword by Peter Cameron",
+    "isbn": "9781590177617",
+    "pub_date": "September 2, 2014"
+  },
+  {
+    "id": 154,
+    "author_translation_note": "by Leonardo Sciascia, introduction by W.S. Di Piero, translated from the Italian by Adrienne Foulke",
+    "isbn": "9780940322523",
+    "pub_date": "October 31, 2000"
+  },
+  {
+    "id": 155,
+    "author_translation_note": "by Silvina Ocampo, introduction by Helen Oyeyemi, a new translation from the Spanish by Daniel Balderston, preface by Jorge Luis Borges",
+    "isbn": "9781590177679",
+    "pub_date": "January 27, 2015"
+  },
+  {
+    "id": 156,
+    "author_translation_note": "by Yashar Kemal, introduction by Bill McKibben, translated by Margaret E. Platon",
+    "isbn": "9781590171851",
+    "pub_date": "June 30, 2005"
+  },
+  {
+    "id": 157,
+    "author_translation_note": "by Thomas Flanagan, introduction by Seamus Deane",
+    "isbn": "9781590171080",
+    "pub_date": "October 31, 2004"
+  },
+  {
+    "id": 158,
+    "author_translation_note": "by M.I. Finley, introduction by Bernard Knox",
+    "isbn": "9781590170175",
+    "pub_date": "September 30, 2002"
+  },
+  {
+    "id": 159,
+    "author_translation_note": "by Helen Keller, edited and with an introduction by Roger Shattuck",
+    "isbn": "9781590170670",
+    "pub_date": "January 31, 2004"
+  },
+  {
+    "id": 160,
+    "author_translation_note": "by Bruce Duffy, introduction by David Leavitt",
+    "isbn": "9781590173602",
+    "pub_date": "October 12, 2010"
+  },
+  {
+    "id": 161,
+    "author_translation_note": "by Richard Hughes, introduction by Hilary Mantel",
+    "isbn": "9780940322301",
+    "pub_date": "February 28, 2000"
+  },
+  {
+    "id": 162,
+    "author_translation_note": "by Tove Jansson, introduction by Lauren Groff, new translations from the Swedish by  Thomas Teal and Silvester Mazzarella",
+    "isbn": "9781590177662",
+    "pub_date": "October 21, 2014"
+  },
+  {
+    "id": 163,
+    "author_translation_note": "by Leonardo Sciascia, introduction by Albert Mobilio, translated from the Italian by Avril Bardoni",
+    "isbn": "9780940322530",
+    "pub_date": "October 31, 2000"
+  },
+  {
+    "id": 164,
+    "author_translation_note": "by Tayeb Salih, introduction by Hisham Matar, translated from the Arabic by Denys Johnson-Davies",
+    "isbn": "9781590173428",
+    "pub_date": "March 2, 2010"
+  },
+  {
+    "id": 165,
+    "author_translation_note": "by Nicolas Bouvier, introduction by Patrick Leigh Fermor, illustrated by Thierry Vernet, translated by Robyn Marsack",
+    "isbn": "9781590173220",
+    "pub_date": "October 27, 2009"
+  },
+  {
+    "id": 166,
+    "author_translation_note": "by Georg Christoph Lichtenberg, translated and with an introduction by R.J. Hollingdale",
+    "isbn": "9780940322509",
+    "pub_date": "September 30, 2000"
+  },
+  {
+    "id": 167,
+    "author_translation_note": "by H.G. Wells, illustrated by Edward Gorey",
+    "isbn": "9781590171585",
+    "pub_date": "June 30, 2005"
+  },
+  {
+    "id": 168,
+    "author_translation_note": "by Malcolm Lowry, edited and with an introduction by Michael Hofmann",
+    "isbn": "9781590172353",
+    "pub_date": "August 21, 2007"
+  },
+  {
+    "id": 169,
+    "author_translation_note": "by Barbara Comyns, foreword by Kathryn Davis",
+    "isbn": "9781590170298",
+    "pub_date": "April 30, 2003"
+  },
+  {
+    "id": 170,
+    "author_translation_note": "by Aleksandar Ti\u0161ma, introduction by Claire Messud, translated from the Serbo-Croatian by Bernard Johnson",
+    "isbn": "9781590177266",
+    "pub_date": "November 11, 2014"
+  },
+  {
+    "id": 171,
+    "author_translation_note": "by  Saki, illustrated by Edward Gorey",
+    "isbn": "9781590176245",
+    "pub_date": "June 18, 2013"
+  },
+  {
+    "id": 172,
+    "author_translation_note": "by Tess Slesinger, introduction by Elizabeth Hardwick",
+    "isbn": "9781590170144",
+    "pub_date": "August 31, 2002"
+  },
+  {
+    "id": 173,
+    "author_translation_note": "by Honor\u00e9 de Balzac, introduction by Arthur C. Danto, translated from the French by Richard Howard",
+    "isbn": "9780940322745",
+    "pub_date": "August 31, 2000"
+  },
+  {
+    "id": 174,
+    "author_translation_note": "by Tove Jansson, introduction by Ali Smith, translated from the Swedish by Thomas Teal",
+    "isbn": "9781590173299",
+    "pub_date": "December 8, 2009"
+  },
+  {
+    "id": 175,
+    "author_translation_note": "by Patrick Leigh Fermor, introduction by Joshua Jelly-Schapiro",
+    "isbn": "9781590173800",
+    "pub_date": "December 10, 2010"
+  },
+  {
+    "id": 176,
+    "author_translation_note": "by Carl Van Vechten, introduction by Stephen Budiansky",
+    "isbn": "9781590172230",
+    "pub_date": "March 27, 2007"
+  },
+  {
+    "id": 177,
+    "author_translation_note": "by Milton Rokeach, introduction by Rick Moody",
+    "isbn": "9781590173848",
+    "pub_date": "April 19, 2011"
+  },
+  {
+    "id": 178,
+    "author_translation_note": "by C.V. Wedgwood, foreword by Anthony Grafton",
+    "isbn": "9781590171462",
+    "pub_date": "June 30, 2005"
+  },
+  {
+    "id": 179,
+    "author_translation_note": "by Edward Lewis Wallant, introduction by Dave Eggers",
+    "isbn": "9781590170700",
+    "pub_date": "November 30, 2003"
+  },
+  {
+    "id": 180,
+    "author_translation_note": "by Maria Dermout, translated and with an introduction by Hans Koning",
+    "isbn": "9781590170137",
+    "pub_date": "July 31, 2002"
+  },
+  {
+    "id": 181,
+    "author_translation_note": "by Nancy Mitford, introduction by Philip Mansel",
+    "isbn": "9781590174913",
+    "pub_date": "May 8, 2012"
+  },
+  {
+    "id": 182,
+    "author_translation_note": "by Tove Jansson, introduction by Kathryn Davis, translated from the Swedish by Thomas Teal",
+    "isbn": "9781590172681",
+    "pub_date": "May 20, 2008"
+  },
+  {
+    "id": 183,
+    "author_translation_note": "introduction by Billy Collins, edited by D.B. Wyndham Lewis, edited by Charles Lee",
+    "isbn": "9781590170380",
+    "pub_date": "April 30, 2003"
+  },
+  {
+    "id": 184,
+    "author_translation_note": "introduction by Catherine Ciepiela, afterword by Honor Moore, translated by Paul Schmidt",
+    "isbn": "9781590171912",
+    "pub_date": "December 5, 2006"
+  },
+  {
+    "id": 185,
+    "author_translation_note": "by J.F. Powers, introduction by Denis Donoghue",
+    "isbn": "9780940322226",
+    "pub_date": "March 31, 2000"
+  },
+  {
+    "id": 186,
+    "author_translation_note": "by Gilbert Seldes, introduction by Greil Marcus",
+    "isbn": "9781590175804",
+    "pub_date": "November 6, 2012"
+  },
+  {
+    "id": 187,
+    "author_translation_note": "by Gert Ledig, translated from the German and with an introduction by Michael Hofmann",
+    "isbn": "9781590171646",
+    "pub_date": "August 31, 2005"
+  },
+  {
+    "id": 188,
+    "author_translation_note": "by Gregor von Rezzori, introduction by John Banville, translated from the German by H.F. Broch De Rothermann",
+    "isbn": "9781590172810",
+    "pub_date": "December 2, 2008"
+  },
+  {
+    "id": 189,
+    "author_translation_note": "by Tatyana Tolstaya, translated from the Russian by Jamey Gambrell",
+    "isbn": "9781590171967",
+    "pub_date": "March 6, 2007"
+  },
+  {
+    "id": 190,
+    "author_translation_note": "by Patrick Hamilton, introduction by David Lodge",
+    "isbn": "9781590172209",
+    "pub_date": "February 20, 2007"
+  },
+  {
+    "id": 191,
+    "author_translation_note": "by Curzio Malaparte, introduction by Rachel Kushner, translated from the Italian by David Moore",
+    "isbn": "9781590176221",
+    "pub_date": "November 5, 2013"
+  },
+  {
+    "id": 192,
+    "author_translation_note": "by J.G. Farrell, introduction by Derek Mahon",
+    "isbn": "9781590171363",
+    "pub_date": "January 31, 2005"
+  },
+  {
+    "id": 193,
+    "author_translation_note": "by J.G. Farrell, introduction by Pankaj Mishra",
+    "isbn": "9781590170922",
+    "pub_date": "July 31, 2004"
+  },
+  {
+    "id": 194,
+    "author_translation_note": "by Cesare Pavese, translated and with an introduction by R.W. Flint",
+    "isbn": "9780940322851",
+    "pub_date": "October 31, 2001"
+  },
+  {
+    "id": 195,
+    "author_translation_note": "by Osip Mandelstam, translated from the Russian by Clarence Brown, translated from the Russian by W.S. Merwin",
+    "isbn": "9781590170915",
+    "pub_date": "August 31, 2004"
+  },
+  {
+    "id": 196,
+    "author_translation_note": "by Robert Kirk, introduction by Marina Warner",
+    "isbn": "9781590171776",
+    "pub_date": "November 21, 2006"
+  },
+  {
+    "id": 197,
+    "author_translation_note": "by L.H. Myers, introduction by Penelope Fitzgerald",
+    "isbn": "9780940322608",
+    "pub_date": "March 31, 2001"
+  },
+  {
+    "id": 198,
+    "author_translation_note": "by Vasily Grossman, edited by Robert Chandler, translated from the Russian by Elizabeth Chandler, Robert Chandler, and Olga Mukovnikova",
+    "isbn": "9781590173619",
+    "pub_date": "September 28, 2010"
+  },
+  {
+    "id": 199,
+    "author_translation_note": "by Theodor Storm, translated from the German and with an afterword by James Wright",
+    "isbn": "9781590173015",
+    "pub_date": "January 27, 2009"
+  },
+  {
+    "id": 200,
+    "author_translation_note": "by Camara Laye, introduction by Toni Morrison, translated from the French by James Kirkup",
+    "isbn": "9781590174555",
+    "pub_date": "August 16, 2011"
+  },
+  {
+    "id": 201,
+    "author_translation_note": "by Vladimir Sorokin, translated from the Russian by Sally Laird",
+    "isbn": "9781590172742",
+    "pub_date": "October 7, 2008"
+  },
+  {
+    "id": 202,
+    "author_translation_note": "by A.J.A. Symons, introduction by A.S. Byatt",
+    "isbn": "9780940322615",
+    "pub_date": "March 31, 2001"
+  },
+  {
+    "id": 203,
+    "author_translation_note": "by  Colette, introduction by Judith Thurman, translated from the French by Herma Briffault",
+    "isbn": "9780940322486",
+    "pub_date": "September 30, 2000"
+  },
+  {
+    "id": 204,
+    "author_translation_note": "by Penelope Mortimer, introduction by Daphne Merkin",
+    "isbn": "9781590173824",
+    "pub_date": "April 26, 2011"
+  },
+  {
+    "id": 205,
+    "author_translation_note": "by Giuseppe Tomasi di Lampedusa, introduction by Marina Warner, translated from the Italian by Stephen Twilley",
+    "isbn": "9781590177198",
+    "pub_date": "June 17, 2014"
+  },
+  {
+    "id": 206,
+    "author_translation_note": "by James Hogg, introduction by Margot Livesey",
+    "isbn": "9781590170250",
+    "pub_date": "November 30, 2002"
+  },
+  {
+    "id": 207,
+    "author_translation_note": "by Max Beerbohm, edited and with an introduction by Phillip Lopate",
+    "isbn": "9781590178287",
+    "pub_date": "June 2, 2015"
+  },
+  {
+    "id": 208,
+    "author_translation_note": "by Anton Chekhov, illustrated by Nikolay Chekhov, a new translation from the Russian by Maria Bloshteyn",
+    "isbn": "9781590178362",
+    "pub_date": "July 28, 2015"
+  },
+  {
+    "id": 209,
+    "author_translation_note": "by Stefan Zweig, translated from the German by Joel Rotenberg",
+    "isbn": "9781590172629",
+    "pub_date": "April 15, 2008"
+  },
+  {
+    "id": 210,
+    "author_translation_note": "by Glenway Wescott, introduction by Michael Cunningham",
+    "isbn": "9781590174579",
+    "pub_date": "August 16, 2011"
+  },
+  {
+    "id": 211,
+    "author_translation_note": "by J.A. Baker, introduction by Robert Macfarlane",
+    "isbn": "9781590171332",
+    "pub_date": "December 31, 2004"
+  },
+  {
+    "id": 212,
+    "author_translation_note": "by K'ung Shang-jen, introduction by Judith T. Zeitlin, translated from the Chinese by Chen Shih-hsiang and Harold Acton with the collaboration of  Cyril Birch",
+    "isbn": "9781590178768",
+    "pub_date": "June 16, 2015"
+  },
+  {
+    "id": 213,
+    "author_translation_note": "by Millen Brand, afterword by Peter Cameron",
+    "isbn": "9781590173596",
+    "pub_date": "October 19, 2010"
+  },
+  {
+    "id": 214,
+    "author_translation_note": "by Henry James, introduction by Jean Strouse",
+    "isbn": "9781590170007",
+    "pub_date": "March 31, 2002"
+  },
+  {
+    "id": 215,
+    "author_translation_note": "by Henry James, introduction by Louis Begley",
+    "isbn": "9780940322325",
+    "pub_date": "September 30, 1999"
+  },
+  {
+    "id": 216,
+    "author_translation_note": "by Thomas Tryon, afterword by Dan Chaon",
+    "isbn": "9781590175835",
+    "pub_date": "October 2, 2012"
+  },
+  {
+    "id": 217,
+    "author_translation_note": "by Masanobu Fukuoka, introduction by Frances Moore Lapp\u00e9",
+    "isbn": "9781590173138",
+    "pub_date": "June 2, 2009"
+  },
+  {
+    "id": 218,
+    "author_translation_note": "by Elaine Dundy",
+    "isbn": "9781590173176",
+    "pub_date": "June 16, 2009"
+  },
+  {
+    "id": 219,
+    "author_translation_note": "by Kingsley Amis, introduction by John Banville",
+    "isbn": "9781590175767",
+    "pub_date": "October 2, 2012"
+  },
+  {
+    "id": 220,
+    "author_translation_note": "by Joseph Joubert, translated and with an introduction by Paul Auster",
+    "isbn": "9781590171486",
+    "pub_date": "June 30, 2005"
+  },
+  {
+    "id": 221,
+    "author_translation_note": "by Henry James, selected and with an introduction by Colm T\u00f3ib\u00edn",
+    "isbn": "9781590171622",
+    "pub_date": "November 30, 2005"
+  },
+  {
+    "id": 222,
+    "author_translation_note": "by Elizabeth Hardwick, introduction by Darryl Pinckney",
+    "isbn": "9781590172872",
+    "pub_date": "June 1, 2010"
+  },
+  {
+    "id": 223,
+    "author_translation_note": "by Edith Wharton, selected and with an introduction by Roxana Robinson",
+    "isbn": "9781590172483",
+    "pub_date": "October 9, 2007"
+  },
+  {
+    "id": 224,
+    "author_translation_note": "by Alexandros Papadiamantis, translated from the Greek and with an introduction by Peter Levi",
+    "isbn": "9781590173503",
+    "pub_date": "June 15, 2010"
+  },
+  {
+    "id": 225,
+    "author_translation_note": "by Jean Stafford, afterword by Kathryn Davis",
+    "isbn": "9781590173527",
+    "pub_date": "August 10, 2010"
+  },
+  {
+    "id": 226,
+    "author_translation_note": "by Leonardo Sciascia, introduction by Peter Robb, translated from the Italian by Sacha Rabinovitch",
+    "isbn": "9781590170830",
+    "pub_date": "May 31, 2004"
+  },
+  {
+    "id": 227,
+    "author_translation_note": "by Cesare Pavese, introduction by Mark Rudman, translated from the Italian by R.W. Flint",
+    "isbn": "9781590170212",
+    "pub_date": "October 31, 2002"
+  },
+  {
+    "id": 228,
+    "author_translation_note": "by \u00c9lisabeth Gille, translated from the French by Marina Harss",
+    "isbn": "9781590174449",
+    "pub_date": "September 6, 2011"
+  },
+  {
+    "id": 229,
+    "author_translation_note": "by Lionel Trilling, preface by Monroe Engel",
+    "isbn": "9781590170151",
+    "pub_date": "September 1, 2002"
+  },
+  {
+    "id": 230,
+    "author_translation_note": "by Brian Moore, introduction by Christopher Ricks",
+    "isbn": "9781590174487",
+    "pub_date": "August 9, 2011"
+  },
+  {
+    "id": 231,
+    "author_translation_note": "by Jean-Patrick Manchette, introduction by James Sallis, translated from the French by Donald Nicholson-Smith",
+    "isbn": "9781590177204",
+    "pub_date": "July 15, 2014"
+  },
+  {
+    "id": 232,
+    "author_translation_note": "by Iona and Peter Opie, introduction by Marina Warner",
+    "isbn": "9780940322691",
+    "pub_date": "August 31, 2000"
+  },
+  {
+    "id": 233,
+    "author_translation_note": "by Hugo von Hofmannsthal, introduction by John Banville",
+    "isbn": "9781590171202",
+    "pub_date": "January 31, 2005"
+  },
+  {
+    "id": 234,
+    "author_translation_note": "by Frans G. Bengtsson, introduction by Michael Chabon, translated from the Swedish by Michael Meyer",
+    "isbn": "9781590173466",
+    "pub_date": "July 6, 2010"
+  },
+  {
+    "id": 235,
+    "author_translation_note": "by Brian Moore, afterword by Mary Gordon",
+    "isbn": "9781590173497",
+    "pub_date": "June 15, 2010"
+  },
+  {
+    "id": 236,
+    "author_translation_note": "edited and with an introduction by W.H. Auden",
+    "isbn": "9780940322134",
+    "pub_date": "September 30, 1999"
+  },
+  {
+    "id": 237,
+    "author_translation_note": "by Bohumil Hrabal, with an introduction by Joshua Cohen, translated from the Czech by James Naughton",
+    "isbn": "9781590178409",
+    "pub_date": "June 23, 2015"
+  },
+  {
+    "id": 238,
+    "author_translation_note": "introduction by Juan Goytisolo, translated from the Spanish by W.S. Merwin",
+    "isbn": "9781590171325",
+    "pub_date": "December 31, 2004"
+  },
+  {
+    "id": 239,
+    "author_translation_note": "by  Stendhal, translated from the French and with an introduction by John Sturrock, preface by Lydia Davis",
+    "isbn": "9780940322899",
+    "pub_date": "December 31, 2001"
+  },
+  {
+    "id": 240,
+    "author_translation_note": "by Lionel Trilling, introduction by Louis Menand",
+    "isbn": "9781590172834",
+    "pub_date": "September 23, 2008"
+  },
+  {
+    "id": 241,
+    "author_translation_note": "by Sigizmund Krzhizhanovsky, introduction by Caryl Emerson, translated from the Russian by Joanne Turnbull",
+    "isbn": "9781590174500",
+    "pub_date": "December 6, 2011"
+  },
+  {
+    "id": 242,
+    "author_translation_note": "by Luigi Pirandello, introduction by Charles Simic, translated from the Italian by William Weaver",
+    "isbn": "9781590171158",
+    "pub_date": "November 30, 2004"
+  },
+  {
+    "id": 243,
+    "author_translation_note": "by John Ehle, introduction by Linda Spalding",
+    "isbn": "9781590177631",
+    "pub_date": "November 25, 2014"
+  },
+  {
+    "id": 244,
+    "author_translation_note": "by David Stacton, introduction by John Crowley",
+    "isbn": "9781590174524",
+    "pub_date": "June 7, 2011"
+  },
+  {
+    "id": 245,
+    "author_translation_note": "by Henry David Thoreau, edited by Damion Searls, preface by John R. Stilgoe",
+    "isbn": "9781590173213",
+    "pub_date": "November 24, 2009"
+  },
+  {
+    "id": 246,
+    "author_translation_note": "by Albert Cossery, introduction by James Buchan, translated from the French by Anna Moschovakis",
+    "isbn": "9781590173251",
+    "pub_date": "July 20, 2010"
+  },
+  {
+    "id": 247,
+    "author_translation_note": "by Henry Adams, introduction by Garry Wills",
+    "isbn": "9781590172155",
+    "pub_date": "September 19, 2006"
+  },
+  {
+    "id": 248,
+    "author_translation_note": "by Henry James, introduction by Alan Hollinghurst",
+    "isbn": "9781590170786",
+    "pub_date": "February 29, 2004"
+  },
+  {
+    "id": 249,
+    "author_translation_note": "by Adolfo Bioy Casares, introduction by Suzanne Jill Levine, prologue by Jorge Luis Borges, translated from the Spanish by Ruth L.C. Simms",
+    "isbn": "9781590170571",
+    "pub_date": "August 31, 2003"
+  },
+  {
+    "id": 250,
+    "author_translation_note": "a new translation by Ciaran Carson",
+    "isbn": "9781590171141",
+    "pub_date": "October 31, 2004"
+  },
+  {
+    "id": 251,
+    "author_translation_note": "by Honor\u00e9 de Balzac, edited and with an introduction by Peter Brooks, a new translation from the French by  Linda Asher, Carol Cosman, and Jordan Stump",
+    "isbn": "9781590176641",
+    "pub_date": "January 14, 2014"
+  },
+  {
+    "id": 252,
+    "author_translation_note": "Ghost stories chosen and illustrated by Edward Gorey",
+    "isbn": "9780940322684",
+    "pub_date": "February 28, 2001"
+  },
+  {
+    "id": 253,
+    "author_translation_note": "by Simon Leys",
+    "isbn": "9781590176207",
+    "pub_date": "July 30, 2013"
+  },
+  {
+    "id": 254,
+    "author_translation_note": "by Kingsley Amis, introduction by Michael Dirda",
+    "isbn": "9781590176160",
+    "pub_date": "May 7, 2013"
+  },
+  {
+    "id": 255,
+    "author_translation_note": "by Josep Pla, introduction by Valent\u00ed Puig, new translation from the Catalan by Peter Bush",
+    "isbn": "9781590176719",
+    "pub_date": "April 8, 2014"
+  },
+  {
+    "id": 256,
+    "author_translation_note": "by T.H. White, introduction by Marie Winn",
+    "isbn": "9781590172490",
+    "pub_date": "October 2, 2007"
+  },
+  {
+    "id": 257,
+    "author_translation_note": "by  Shchedrin, introduction by James Wood, translated from the Russian by Natalie Duddington",
+    "isbn": "9780940322578",
+    "pub_date": "May 31, 2001"
+  },
+  {
+    "id": 258,
+    "author_translation_note": "by L.P. Hartley, introduction by Colm T\u00f3ib\u00edn",
+    "isbn": "9780940322998",
+    "pub_date": "March 31, 2002"
+  },
+  {
+    "id": 259,
+    "author_translation_note": "by Ernst Junger, introduction by Bruce Sterling, translated from the German by Elizabeth Mayer and Louise Bogan",
+    "isbn": "9780940322554",
+    "pub_date": "September 30, 2000"
+  },
+  {
+    "id": 260,
+    "author_translation_note": "by Natsume Soseki, introduction by Pico Iyer, translated from the Japanese by William F. Sibley",
+    "isbn": "9781590175873",
+    "pub_date": "December 4, 2012"
+  },
+  {
+    "id": 261,
+    "author_translation_note": "by John Horne Burns, introduction by Paul Fussell",
+    "isbn": "9781590170809",
+    "pub_date": "March 31, 2004"
+  },
+  {
+    "id": 262,
+    "author_translation_note": "by Janet Hobhouse, introduction by Daphne Merkin",
+    "isbn": "9781590170854",
+    "pub_date": "September 30, 2004"
+  },
+  {
+    "id": 263,
+    "author_translation_note": "by Richard Hughes, introduction by Hilary Mantel",
+    "isbn": "9780940322295",
+    "pub_date": "February 28, 2001"
+  },
+  {
+    "id": 264,
+    "author_translation_note": "by Rebecca West, introduction by Andrea Barrett",
+    "isbn": "9781590170342",
+    "pub_date": "December 31, 2002"
+  },
+  {
+    "id": 265,
+    "author_translation_note": "by Andrey Platonov, translated from the Russian by Robert Chandler, Elizabeth Chandler, and  Olga Meerson",
+    "isbn": "9781590173053",
+    "pub_date": "April 21, 2009"
+  },
+  {
+    "id": 266,
+    "author_translation_note": "by Der Nister, introduction by David Malouf, translated by Leonard Wolf",
+    "isbn": "9781590172797",
+    "pub_date": "May 20, 2008"
+  },
+  {
+    "id": 267,
+    "author_translation_note": "by Arthur Conan Doyle, introduction by George MacDonald Fraser",
+    "isbn": "9780940322738",
+    "pub_date": "April 30, 2001"
+  },
+  {
+    "id": 268,
+    "author_translation_note": "by Dorothy B. Hughes, afterword by Walter Mosley",
+    "isbn": "9781590174951",
+    "pub_date": "July 3, 2012"
+  },
+  {
+    "id": 269,
+    "author_translation_note": "by Elizabeth von Arnim, introduction by Cathleen Schine",
+    "isbn": "9781590172254",
+    "pub_date": "April 3, 2007"
+  },
+  {
+    "id": 270,
+    "author_translation_note": "by Russell Page",
+    "isbn": "9781590172315",
+    "pub_date": "July 10, 2007"
+  },
+  {
+    "id": 271,
+    "author_translation_note": "by Elaine Dundy, introduction by Terry Teachout",
+    "isbn": "9781590172322",
+    "pub_date": "June 5, 2007"
+  },
+  {
+    "id": 272,
+    "author_translation_note": "by Magda Szab\u00f3, introduction by Ali Smith, a new translation from the Hungarian by Len Rix",
+    "isbn": "9781590177716",
+    "pub_date": "January 27, 2015"
+  },
+  {
+    "id": 273,
+    "author_translation_note": "by Boles\u0142aw Prus, introduction by Stanis\u0142aw Bara\u0144czak, translated from the Polish by David Welsh",
+    "isbn": "9781590173831",
+    "pub_date": "February 8, 2011"
+  },
+  {
+    "id": 274,
+    "author_translation_note": "by Simon Leys, translated from the French by Patricia Clancy",
+    "isbn": "9781590178423",
+    "pub_date": "May 5, 2015"
+  },
+  {
+    "id": 275,
+    "author_translation_note": "by Leonardo Sciascia, introduction by George Scialabba, translated from the Italian by Archibald Colquhoun and Anthony Oliver",
+    "isbn": "9781590170618",
+    "pub_date": "September 30, 2003"
+  },
+  {
+    "id": 276,
+    "author_translation_note": "by Harold W. Cruse, introduction by Stanley Crouch",
+    "isbn": "9781590171356",
+    "pub_date": "June 30, 2005"
+  },
+  {
+    "id": 277,
+    "author_translation_note": "by Paul Hazard, introduction by Anthony Grafton, translated from the French by J. Lewis May",
+    "isbn": "9781590176191",
+    "pub_date": "April 9, 2013"
+  },
+  {
+    "id": 278,
+    "author_translation_note": "by Mavis Gallant, introduction by Jhumpa Lahiri",
+    "isbn": "9781590173275",
+    "pub_date": "September 29, 2009"
+  },
+  {
+    "id": 279,
+    "author_translation_note": "by Francis Wyndham, introduction by Alan Hollinghurst",
+    "isbn": "9781590173121",
+    "pub_date": "May 5, 2009"
+  },
+  {
+    "id": 280,
+    "author_translation_note": "by John Wyndham, introduction by Christopher Priest",
+    "isbn": "9781590172926",
+    "pub_date": "November 18, 2008"
+  },
+  {
+    "id": 281,
+    "author_translation_note": "by Jules Valles, edited and with an introduction by Douglas Parmee",
+    "isbn": "9781590171172",
+    "pub_date": "January 31, 2005"
+  },
+  {
+    "id": 282,
+    "author_translation_note": "by Victor Serge, introduction by Susan Sontag, translated from the French by Willard R. Trask",
+    "isbn": "9781590170649",
+    "pub_date": "June 30, 2004"
+  },
+  {
+    "id": 283,
+    "author_translation_note": "by Alexander Pushkin, introduction by Robert Chandler, translated from the Russian by Robert Chandler and Elizabeth Chandler",
+    "isbn": "9781590177242",
+    "pub_date": "September 2, 2014"
+  },
+  {
+    "id": 284,
+    "author_translation_note": "by Bela Zombory-Moldovan, a new translation from the Hungarian by Peter Zombory-Moldovan",
+    "isbn": "9781590178096",
+    "pub_date": "August 5, 2014"
+  },
+  {
+    "id": 285,
+    "author_translation_note": "by Patrick Leigh Fermor, edited by Colin Thubron and Artemis Cooper",
+    "isbn": "9781590177792",
+    "pub_date": "January 20, 2015"
+  },
+  {
+    "id": 286,
+    "author_translation_note": "by Simone Schwarz-Bart, introduction by Jamaica Kincaid, translated from the French by Barbara Bray",
+    "isbn": "9781590176801",
+    "pub_date": "August 20, 2013"
+  },
+  {
+    "id": 287,
+    "author_translation_note": "by Girolamo Cardano, introduction by Anthony Grafton, translated from the Italian by Jean Stoner",
+    "isbn": "9781590170168",
+    "pub_date": "October 31, 2002"
+  },
+  {
+    "id": 288,
+    "author_translation_note": "by G.B. Edwards, introduction by John Fowles",
+    "isbn": "9781590172339",
+    "pub_date": "July 10, 2007"
+  },
+  {
+    "id": 289,
+    "author_translation_note": "by P.V. Glob, introduction by Elizabeth Wayland Barber, introduction by Paul T. Barber, translated from the Danish by Rupert Bruce-Mitford",
+    "isbn": "9781590170908",
+    "pub_date": "August 31, 2004"
+  },
+  {
+    "id": 290,
+    "author_translation_note": "by Jeremias Gotthelf, a new translation from the German by Susan Bernofsky",
+    "isbn": "9781590176689",
+    "pub_date": "October 8, 2013"
+  },
+  {
+    "id": 291,
+    "author_translation_note": "by Kenneth Fearing, introduction by Nicholas Christopher",
+    "isbn": "9781590171813",
+    "pub_date": "July 18, 2006"
+  },
+  {
+    "id": 292,
+    "author_translation_note": "by Nirad C. Chaudhuri, introduction by Ian Jack",
+    "isbn": "9780940322820",
+    "pub_date": "September 30, 2001"
+  },
+  {
+    "id": 293,
+    "author_translation_note": "by Robert Burton, introduction by William H. Gass",
+    "isbn": "9780940322660",
+    "pub_date": "April 30, 2001"
+  },
+  {
+    "id": 294,
+    "author_translation_note": "by Kingsley Amis, introduction by William Gibson",
+    "isbn": "9781590176177",
+    "pub_date": "May 7, 2013"
+  },
+  {
+    "id": 295,
+    "author_translation_note": "by Gyula Krudy, translated from the Hungarian and with an introduction by George Szirtes",
+    "isbn": "9781590174456",
+    "pub_date": "November 8, 2011"
+  },
+  {
+    "id": 296,
+    "author_translation_note": "by Alvaro Mutis, introduction by Francisco Goldman, translated from the Spanish by Edith Grossman",
+    "isbn": "9780940322912",
+    "pub_date": "February 1, 2002"
+  },
+  {
+    "id": 297,
+    "author_translation_note": "by Carlo Emilio Gadda, introduction by Italo Calvino, translated from the Italian by William Weaver",
+    "isbn": "9781590172223",
+    "pub_date": "February 27, 2007"
+  },
+  {
+    "id": 298,
+    "author_translation_note": "by William McPherson, afterword by D. T. Max",
+    "isbn": "9781590176023",
+    "pub_date": "January 8, 2013"
+  },
+  {
+    "id": 299,
+    "author_translation_note": "by Linda Rosenkrantz, introduction by Stephen Koch",
+    "isbn": "9781590178447",
+    "pub_date": "July 7, 2015"
+  },
+  {
+    "id": 300,
+    "author_translation_note": "by Kingsley Amis, introduction by Christian Lorentzen",
+    "isbn": "9781590177600",
+    "pub_date": "April 28, 2015"
+  },
+  {
+    "id": 301,
+    "author_translation_note": "by Gyula Kr\u00fady, introduction by John Lukacs, translated from the Hungarian by John B\u00e1tki",
+    "isbn": "9781590171868",
+    "pub_date": "August 14, 2007"
+  },
+  {
+    "id": 302,
+    "author_translation_note": "by Sylvia Townsend Warner, introduction by Claire Harman",
+    "isbn": "9781590173169",
+    "pub_date": "June 16, 2009"
+  },
+  {
+    "id": 303,
+    "author_translation_note": "by Elizabeth David, foreword by Molly O'Neill",
+    "isbn": "9781590170045",
+    "pub_date": "April 30, 2002"
+  },
+  {
+    "id": 304,
+    "author_translation_note": "by Robert Sheckley, edited and with an introduction by Jonathan Lethem and Alex Abramovich",
+    "isbn": "9781590174944",
+    "pub_date": "May 1, 2012"
+  },
+  {
+    "id": 305,
+    "author_translation_note": "by Tim Robinson, introduction by Robert Macfarlane",
+    "isbn": "9781590172773",
+    "pub_date": "August 5, 2008"
+  },
+  {
+    "id": 306,
+    "author_translation_note": "by Tim Robinson, introduction by John Elder",
+    "isbn": "9781590173145",
+    "pub_date": "September 22, 2009"
+  },
+  {
+    "id": 307,
+    "author_translation_note": "by John Williams, introduction by John McGahern",
+    "isbn": "9781590171998",
+    "pub_date": "June 20, 2006"
+  },
+  {
+    "id": 308,
+    "author_translation_note": "by Renata Adler, afterword by Guy Trebay",
+    "isbn": "9781590176139",
+    "pub_date": "March 19, 2013"
+  },
+  {
+    "id": 309,
+    "author_translation_note": "by Jakov Lind, introduction by Michael Kruger, translated from the German by Ralph Manheim",
+    "isbn": "9781590173305",
+    "pub_date": "January 5, 2010"
+  },
+  {
+    "id": 310,
+    "author_translation_note": "by Andrey Platonov, introduction by Robert Chandler, afterword by John Berger, translated from the Russian by Robert and Elizabeth Chandler with Katia Grigoruk, Angela Livingstone, Olga Meerson, and Eric Naiman",
+    "isbn": "9781590172544",
+    "pub_date": "December 4, 2007"
+  },
+  {
+    "id": 311,
+    "author_translation_note": "by  Kabir, selected and translated from the Hindi by Arvind Krishna Mehrotra, preface by Wendy Doniger",
+    "isbn": "9781590173794",
+    "pub_date": "April 5, 2011"
+  },
+  {
+    "id": 312,
+    "author_translation_note": "by Peter Handke, introduction by Benjamin Kunkel, translated from the German by Ralph Manheim",
+    "isbn": "9781590173077",
+    "pub_date": "March 31, 2009"
+  },
+  {
+    "id": 313,
+    "author_translation_note": "by Elizabeth Hardwick, introduction by Geoffrey O'Brien",
+    "isbn": "9780940322721",
+    "pub_date": "August 31, 2001"
+  },
+  {
+    "id": 314,
+    "author_translation_note": "by Dezs\u0151 Kosztol\u00e1nyi, introduction by P\u00e9ter Esterh\u00e1zy, translated from the Hungarian by Richard Aczel",
+    "isbn": "9781590173398",
+    "pub_date": "March 2, 2010"
+  },
+  {
+    "id": 315,
+    "author_translation_note": "by Peter Handke, introduction by Greil Marcus, translated from the German by Ralph Manheim",
+    "isbn": "9781590173060",
+    "pub_date": "March 31, 2009"
+  },
+  {
+    "id": 316,
+    "author_translation_note": "by Robert Montgomery Bird, introduction by Christopher Looby",
+    "isbn": "9781590172292",
+    "pub_date": "January 15, 2008"
+  },
+  {
+    "id": 317,
+    "author_translation_note": "by Richard Holmes",
+    "isbn": "9781590170373",
+    "pub_date": "May 31, 2003"
+  },
+  {
+    "id": 318,
+    "author_translation_note": "by Michel de Montaigne, edited and with an introduction by Stephen Greenblatt, edited, modernized, and annotated by Peter Platt, translated from the French by John Florio",
+    "isbn": "9781590177228",
+    "pub_date": "April 8, 2014"
+  },
+  {
+    "id": 319,
+    "author_translation_note": "by Mark Van Doren, foreword by David Lehman",
+    "isbn": "9781590171684",
+    "pub_date": "August 31, 2005"
+  },
+  {
+    "id": 320,
+    "author_translation_note": "edited by D. Thin",
+    "isbn": "9781590179437",
+    "pub_date": "October 6, 2015"
+  },
+  {
+    "id": 321,
+    "author_translation_note": "by Max Beerbohm, introduction by John Updike",
+    "isbn": "9780940322547",
+    "pub_date": "October 31, 2000"
+  },
+  {
+    "id": 322,
+    "author_translation_note": "by Elizabeth Hardwick, introduction by Joan Didion",
+    "isbn": "9780940322783",
+    "pub_date": "August 31, 2001"
+  },
+  {
+    "id": 323,
+    "author_translation_note": "by Tayeb Salih, introduction by Laila Lalami, translated from the Arabic by Denys Johnson-Davies",
+    "isbn": "9781590173022",
+    "pub_date": "April 14, 2009"
+  },
+  {
+    "id": 324,
+    "author_translation_note": "by Olivia Manning, introduction by Jane Smiley",
+    "isbn": "9781590173039",
+    "pub_date": "February 3, 2009"
+  },
+  {
+    "id": 325,
+    "author_translation_note": "by Patrick Leigh Fermor, introduction by Patricia Storace",
+    "isbn": "9781590171875",
+    "pub_date": "June 6, 2006"
+  },
+  {
+    "id": 326,
+    "author_translation_note": "by Geoffrey Household, introduction by Victoria Nelson",
+    "isbn": "9781590172438",
+    "pub_date": "November 6, 2007"
+  },
+  {
+    "id": 327,
+    "author_translation_note": "by Adalbert Stifter, introduction by W.H. Auden, translated from the German by Elizabeth Mayer and Marianne Moore",
+    "isbn": "9781590172858",
+    "pub_date": "September 16, 2008"
+  },
+  {
+    "id": 328,
+    "author_translation_note": "by Emmett Grogan, introduction by Peter Coyote",
+    "isbn": "9781590172865",
+    "pub_date": "October 14, 2008"
+  },
+  {
+    "id": 329,
+    "author_translation_note": "by Patrick White, introduction by David Malouf",
+    "isbn": "9781590170021",
+    "pub_date": "April 30, 2002"
+  },
+  {
+    "id": 330,
+    "author_translation_note": "by Raymond Kennedy, introduction by Katherine A. Powers",
+    "isbn": "9781590174890",
+    "pub_date": "June 19, 2012"
+  },
+  {
+    "id": 331,
+    "author_translation_note": "by Margaret Leech, introduction by James M. McPherson",
+    "isbn": "9781590174463",
+    "pub_date": "June 7, 2011"
+  },
+  {
+    "id": 332,
+    "author_translation_note": "by Jean Renoir, introduction by Robert L. Herbert, translated from the French by Randolph and Dorothy Weaver",
+    "isbn": "9780940322776",
+    "pub_date": "September 30, 2001"
+  },
+  {
+    "id": 333,
+    "author_translation_note": "by Victor Segalen, translated from the French by J.A. Underwood",
+    "isbn": "9781590170410",
+    "pub_date": "July 31, 2003"
+  },
+  {
+    "id": 334,
+    "author_translation_note": "by Sir Thomas Browne, edited and with an introduction by Stephen Greenblatt and Ramie Targoff",
+    "isbn": "9781590174883",
+    "pub_date": "August 7, 2012"
+  },
+  {
+    "id": 335,
+    "author_translation_note": "by Alan Garner",
+    "isbn": "9781590174432",
+    "pub_date": "October 25, 2011"
+  },
+  {
+    "id": 336,
+    "author_translation_note": "by Edward John Trelawny, introduction by Anne Barton",
+    "isbn": "9780940322363",
+    "pub_date": "May 31, 2000"
+  },
+  {
+    "id": 337,
+    "author_translation_note": "edited by Randall Jarrell",
+    "isbn": "9781590170052",
+    "pub_date": "June 30, 2002"
+  },
+  {
+    "id": 338,
+    "author_translation_note": "by Albert Cossery, introduction by Alyson Waters, translated from the French by Thomas W. Cushing",
+    "isbn": "9781590174425",
+    "pub_date": "December 27, 2011"
+  },
+  {
+    "id": 339,
+    "author_translation_note": "by David Mendel, introduction by Jerome Groopman",
+    "isbn": "9781590176214",
+    "pub_date": "September 24, 2013"
+  },
+  {
+    "id": 340,
+    "author_translation_note": "by  Aeschylus, translated and with an introduction by Joel Agee",
+    "isbn": "9781590178607",
+    "pub_date": "March 24, 2015"
+  },
+  {
+    "id": 341,
+    "author_translation_note": "by Jean Genet, introduction by Ahdaf Soueif, translated from the French by Barbara Bray",
+    "isbn": "9781590170281",
+    "pub_date": "January 31, 2003"
+  },
+  {
+    "id": 342,
+    "author_translation_note": "by Alexander Berkman, introduction by John William Ward",
+    "isbn": "9780940322349",
+    "pub_date": "September 30, 1999"
+  },
+  {
+    "id": 343,
+    "author_translation_note": "by Paul Radin, preface by Neni Panourgia, foreword by John Dewey",
+    "isbn": "9781590177686",
+    "pub_date": "February 21, 2017"
+  },
+  {
+    "id": 344,
+    "author_translation_note": "by Jessica Mitford, preface by Jane Smiley",
+    "isbn": "9781590173558",
+    "pub_date": "September 7, 2010"
+  },
+  {
+    "id": 345,
+    "author_translation_note": "by Gilbert Highet, preface by Michael C. J. Putnam",
+    "isbn": "9781590173381",
+    "pub_date": "March 16, 2010"
+  },
+  {
+    "id": 346,
+    "author_translation_note": "edited and translated by A.C. Graham",
+    "isbn": "9781590172575",
+    "pub_date": "January 22, 2008"
+  },
+  {
+    "id": 347,
+    "author_translation_note": "by Dino Buzzati, translated from the Italian by Marina Harss",
+    "isbn": "9781590173237",
+    "pub_date": "October 6, 2009"
+  },
+  {
+    "id": 348,
+    "author_translation_note": "by Renata Adler, afterword by Muriel Spark",
+    "isbn": "9781590176146",
+    "pub_date": "March 19, 2013"
+  },
+  {
+    "id": 349,
+    "author_translation_note": "by Carlo Collodi, introduction by Umberto Eco, afterword by Rebecca West, translated from the Italian by Geoffrey Brock",
+    "isbn": "9781590172896",
+    "pub_date": "November 18, 2008"
+  },
+  {
+    "id": 350,
+    "author_translation_note": "by David Kidd",
+    "isbn": "9781590170403",
+    "pub_date": "July 31, 2003"
+  },
+  {
+    "id": 351,
+    "author_translation_note": "by Georges Simenon, introduction by Luc Sante, translated from the French by Robert Baldick",
+    "isbn": "9781590173510",
+    "pub_date": "July 20, 2010"
+  },
+  {
+    "id": 352,
+    "author_translation_note": "by Anton Chekhov, introduction by Edmund Wilson, translated from the Russian by Constance Garnett",
+    "isbn": "9780940322141",
+    "pub_date": "September 30, 1999"
+  },
+  {
+    "id": 353,
+    "author_translation_note": "by Murray Kempton, introduction by David Remnick",
+    "isbn": "9781590170878",
+    "pub_date": "May 31, 2004"
+  },
+  {
+    "id": 354,
+    "author_translation_note": "by Mavis Gallant, selected and with an introduction by Michael Ondaatje",
+    "isbn": "9781590170229",
+    "pub_date": "October 31, 2002"
+  },
+  {
+    "id": 355,
+    "author_translation_note": "by Richard Cobb",
+    "isbn": "9781590170823",
+    "pub_date": "March 31, 2004"
+  },
+  {
+    "id": 356,
+    "author_translation_note": "by Edmond and Jules de Goncourt, foreword by Geoff Dyer, edited and translated from the French by Robert Baldick",
+    "isbn": "9781590171905",
+    "pub_date": "November 14, 2006"
+  },
+  {
+    "id": 357,
+    "author_translation_note": "by Eliza Fay, introduction by Simon Winchester, annotated by E.M. Forster",
+    "isbn": "9781590173367",
+    "pub_date": "February 2, 2010"
+  },
+  {
+    "id": 358,
+    "author_translation_note": "by Katharine White, edited and with an introduction by E.B. White",
+    "isbn": "9781590178508",
+    "pub_date": "March 17, 2015"
+  },
+  {
+    "id": 359,
+    "author_translation_note": "by Kingsley Amis, introduction by David Lodge",
+    "isbn": "9781590176627",
+    "pub_date": "September 17, 2013"
+  },
+  {
+    "id": 360,
+    "author_translation_note": "by Malcolm Braly, introduction by Jonathan Lethem",
+    "isbn": "9780940322967",
+    "pub_date": "January 31, 2002"
+  },
+  {
+    "id": 361,
+    "author_translation_note": "by Simone Weil, a new translation from the French and with an introduction by  Simon Leys, with a biographical essay by  Czeslaw Milosz",
+    "isbn": "9781590177815",
+    "pub_date": "September 30, 2014"
+  },
+  {
+    "id": 362,
+    "author_translation_note": "by William H. Gass, introduction by Michael Gorra",
+    "isbn": "9781590177181",
+    "pub_date": "March 11, 2014"
+  },
+  {
+    "id": 363,
+    "author_translation_note": "by F\u00e9lix F\u00e9n\u00e9on, translated and with an introduction by Luc Sante",
+    "isbn": "9781590172308",
+    "pub_date": "August 21, 2007"
+  },
+  {
+    "id": 364,
+    "author_translation_note": "by Vivant Denon, introduction by Peter Brooks, translated from the French by Lydia Davis",
+    "isbn": "9781590173268",
+    "pub_date": "October 13, 2009"
+  },
+  {
+    "id": 365,
+    "author_translation_note": "by Tibor D\u00e9ry, introduction by George Szirtes, translated from the Hungarian by Edward Hyams",
+    "isbn": "9781590173183",
+    "pub_date": "July 7, 2009"
+  },
+  {
+    "id": 366,
+    "author_translation_note": "by Harvey Swados",
+    "isbn": "9781590170847",
+    "pub_date": "May 31, 2004"
+  },
+  {
+    "id": 367,
+    "author_translation_note": "by William Lindsay Gresham, introduction by Nick Tosches",
+    "isbn": "9781590173480",
+    "pub_date": "April 6, 2010"
+  },
+  {
+    "id": 368,
+    "author_translation_note": "by Jules Renard, illustrated by Pierre Bonnard, translated from the French by Douglas Parm\u00e9e",
+    "isbn": "9781590173640",
+    "pub_date": "December 7, 2010"
+  },
+  {
+    "id": 369,
+    "author_translation_note": "by George R. Stewart, introduction by Matt Weiland",
+    "isbn": "9781590172735",
+    "pub_date": "July 1, 2008"
+  },
+  {
+    "id": 370,
+    "author_translation_note": "by Eileen Chang, introduction by Perry Link",
+    "isbn": "9781590178348",
+    "pub_date": "June 16, 2015"
+  },
+  {
+    "id": 371,
+    "author_translation_note": "by J. R. Ackerley, introduction by W.H. Auden",
+    "isbn": "9780940322127",
+    "pub_date": "September 30, 1999"
+  },
+  {
+    "id": 372,
+    "author_translation_note": "by Th\u00e9ophile Gautier, translated and with an introduction by Richard Holmes",
+    "isbn": "9781590172711",
+    "pub_date": "August 1, 2008"
+  },
+  {
+    "id": 373,
+    "author_translation_note": "by Alfred Hayes, introduction by David Thomson",
+    "isbn": "9781590176672",
+    "pub_date": "July 23, 2013"
+  },
+  {
+    "id": 374,
+    "author_translation_note": "by J. R. Ackerley, introduction by Elizabeth Marshall Thomas",
+    "isbn": "9781590174142",
+    "pub_date": "August 24, 2010"
+  },
+  {
+    "id": 375,
+    "author_translation_note": "by Aleksander Wat, foreword by Czeslaw Milosz, translated from the Polish by Richard Lourie",
+    "isbn": "9781590170656",
+    "pub_date": "December 31, 2003"
+  },
+  {
+    "id": 376,
+    "author_translation_note": "by Sylvia Townsend Warner, introduction by Adam Mars-Jones",
+    "isbn": "9781590174586",
+    "pub_date": "August 16, 2011"
+  },
+  {
+    "id": 377,
+    "author_translation_note": "by Nina Berberova, translated from the Russian by Marian Schwartz and Richard D. Sylvester",
+    "isbn": "9781590171370",
+    "pub_date": "June 30, 2005"
+  },
+  {
+    "id": 378,
+    "author_translation_note": "by Georges Bernanos, introduction by Fanny Howe, translated from the French by J.C. Whitehouse",
+    "isbn": "9781590171516",
+    "pub_date": "November 21, 2005"
+  },
+  {
+    "id": 379,
+    "author_translation_note": "by J.F. Powers, introduction by Elizabeth Hardwick",
+    "isbn": "9780940322233",
+    "pub_date": "May 31, 2000"
+  },
+  {
+    "id": 380,
+    "author_translation_note": "by Blaise Cendrars, introduction by Paul La Farge, translated from the French by Alan Brown",
+    "isbn": "9781590170632",
+    "pub_date": "August 31, 2004"
+  },
+  {
+    "id": 381,
+    "author_translation_note": "by C\u00e9leste Albaret, foreword by Andr\u00e9 Aciman, translated from the French by Barbara Bray",
+    "isbn": "9781590170595",
+    "pub_date": "October 31, 2003"
+  },
+  {
+    "id": 382,
+    "author_translation_note": "by Henri Michaux, introduction by Octavio Paz, translated from the French by Louise Varese",
+    "isbn": "9781590170014",
+    "pub_date": "April 30, 2002"
+  },
+  {
+    "id": 383,
+    "author_translation_note": "by Victor Serge, translated from the French and with an introduction by  Richard Greeman",
+    "isbn": "9781590177709",
+    "pub_date": "December 16, 2014"
+  },
+  {
+    "id": 384,
+    "author_translation_note": "by Sigizmund Krzhizhanovsky, translated from the Russian and with an introduction by Joanne Turnbull",
+    "isbn": "9781590173190",
+    "pub_date": "October 6, 2009"
+  },
+  {
+    "id": 385,
+    "author_translation_note": "by Daniel Paul Schreber, introduction by Rosemary Dinnage",
+    "isbn": "9780940322202",
+    "pub_date": "January 31, 2000"
+  },
+  {
+    "id": 386,
+    "author_translation_note": "by John Glassco, introduction by Louis Begley",
+    "isbn": "9781590171844",
+    "pub_date": "May 29, 2007"
+  },
+  {
+    "id": 387,
+    "author_translation_note": "by Edmund Wilson, introduction by Louis Menand",
+    "isbn": "9781590170939",
+    "pub_date": "September 30, 2004"
+  },
+  {
+    "id": 388,
+    "author_translation_note": "by Gregor von Rezzori, introduction by Deborah Eisenberg, translated by Joachim Neugroschel",
+    "isbn": "9781590172469",
+    "pub_date": "December 4, 2007"
+  },
+  {
+    "id": 389,
+    "author_translation_note": "by Victor Serge, foreword by Adam Hochschild, notes by Richard Greeman, translated from the French by Peter Sedgwick with George Paizis",
+    "isbn": "9781590174517",
+    "pub_date": "May 1, 2012"
+  },
+  {
+    "id": 390,
+    "author_translation_note": "by Yashar Kemal, translated from the Turkish by Edouard Roditi",
+    "isbn": "9781590171394",
+    "pub_date": "June 30, 2005"
+  },
+  {
+    "id": 391,
+    "author_translation_note": "by James McCourt, introduction by Wayne Koestenbaum",
+    "isbn": "9780940322974",
+    "pub_date": "February 1, 2002"
+  },
+  {
+    "id": 392,
+    "author_translation_note": "by Dwight Macdonald, introduction by Louis Menand, edited by John Summers",
+    "isbn": "9781590174470",
+    "pub_date": "October 6, 2011"
+  },
+  {
+    "id": 393,
+    "author_translation_note": "by May Sinclair, introduction by Katha Pollitt",
+    "isbn": "9780940322868",
+    "pub_date": "June 30, 2002"
+  },
+  {
+    "id": 394,
+    "author_translation_note": "by Ivy Compton-Burnett, introduction by Diane Johnson",
+    "isbn": "9780940322639",
+    "pub_date": "February 28, 2001"
+  },
+  {
+    "id": 395,
+    "author_translation_note": "by Patrick Leigh Fermor, introduction by Michael Gorra",
+    "isbn": "9781590171882",
+    "pub_date": "June 6, 2006"
+  },
+  {
+    "id": 396,
+    "author_translation_note": "by Nancy Mitford, introduction by Amanda Foreman",
+    "isbn": "9780940322653",
+    "pub_date": "March 31, 2001"
+  },
+  {
+    "id": 397,
+    "author_translation_note": "by Kingsley Amis, introduction by Keith Gessen",
+    "isbn": "9781590175750",
+    "pub_date": "October 2, 2012"
+  },
+  {
+    "id": 398,
+    "author_translation_note": "by Gillian Rose, introduction by Michael Wood",
+    "isbn": "9781590173657",
+    "pub_date": "May 31, 2011"
+  },
+  {
+    "id": 399,
+    "author_translation_note": "by Eileen Chang, translated from the Chinese by Karen S. Kingsbury and Eileen Chang",
+    "isbn": "9781590171783",
+    "pub_date": "October 10, 2006"
+  },
+  {
+    "id": 400,
+    "author_translation_note": "by Sylvia Townsend Warner, introduction by Alison Lurie",
+    "isbn": "9780940322165",
+    "pub_date": "September 30, 1999"
+  },
+  {
+    "id": 401,
+    "author_translation_note": "by Vasily Grossman, translated from the Russian and with an introduction by Robert Chandler",
+    "isbn": "9781590172018",
+    "pub_date": "May 16, 2006"
+  },
+  {
+    "id": 402,
+    "author_translation_note": "by Astolphe de Custine, introduction by Anka Muhlstein",
+    "isbn": "9780940322813",
+    "pub_date": "April 30, 2002"
+  },
+  {
+    "id": 403,
+    "author_translation_note": "by Boris Pasternak, Rainer Maria Rilke, and Marina Tsvetayeva, appendix and epilogue by Jamey Gambrell, translated by Margaret Wettlin, Walter Arndt, and Jamey Gambrell",
+    "isbn": "9780940322714",
+    "pub_date": "October 31, 2001"
+  },
+  {
+    "id": 404,
+    "author_translation_note": "by Qiu Miaojin, translated from the Chinese and with an afterword by Ari Larissa Heinrich",
+    "isbn": "9781590177259",
+    "pub_date": "June 3, 2014"
+  },
+  {
+    "id": 405,
+    "author_translation_note": "by Curzio Malaparte, afterword by Dan Hofstadter, translated from the Italian by Cesare Foligno",
+    "isbn": "9781590171479",
+    "pub_date": "June 30, 2005"
+  },
+  {
+    "id": 406,
+    "author_translation_note": "by Stefan Zweig, introduction by Andr\u00e9 Aciman, translated from the German by Anthea Bell",
+    "isbn": "9781590173671",
+    "pub_date": "November 23, 2010"
+  },
+  {
+    "id": 407,
+    "author_translation_note": "by Antal Szerb, introduction by Julie Orringer, a new translation from the Hungarian by Len Rix",
+    "isbn": "9781590177730",
+    "pub_date": "October 7, 2014"
+  },
+  {
+    "id": 408,
+    "author_translation_note": "by Arun Kolatkar, introduction by Amit Chaudhuri",
+    "isbn": "9781590171639",
+    "pub_date": "November 7, 2005"
+  },
+  {
+    "id": 409,
+    "author_translation_note": "by Robert Walser, translated and with an introduction by Christopher Middleton",
+    "isbn": "9780940322219",
+    "pub_date": "September 30, 1999"
+  },
+  {
+    "id": 410,
+    "author_translation_note": "by Theodor Fontane, afterword by Phillip Lopate, translated from the German by Douglas Parm\u00e9e",
+    "isbn": "9781590173749",
+    "pub_date": "February 15, 2011"
+  },
+  {
+    "id": 411,
+    "author_translation_note": "by William Dean Howells, introduction by Wendy Lesser",
+    "isbn": "9781590171097",
+    "pub_date": "September 30, 2004"
+  },
+  {
+    "id": 412,
+    "author_translation_note": "by William H. Gass, introduction by Joanna Scott",
+    "isbn": "9781590177648",
+    "pub_date": "November 4, 2014"
+  },
+  {
+    "id": 413,
+    "author_translation_note": "written and with an afterword by Janet Malcolm",
+    "isbn": "9781590170274",
+    "pub_date": "November 30, 2002"
+  },
+  {
+    "id": 414,
+    "author_translation_note": "by David Jones",
+    "isbn": "9781590170366",
+    "pub_date": "July 31, 2003"
+  },
+  {
+    "id": 415,
+    "author_translation_note": "by Alfred Hayes, introduction by Frederic Raphael",
+    "isbn": "9781590176665",
+    "pub_date": "July 23, 2013"
+  },
+  {
+    "id": 416,
+    "author_translation_note": "by Richard Hughes, introduction by John Crowley",
+    "isbn": "9781590172728",
+    "pub_date": "August 12, 2008"
+  },
+  {
+    "id": 417,
+    "author_translation_note": "by Vladimir Sorokin, translated from the Russian by Jamey Gambrell",
+    "isbn": "9781590173862",
+    "pub_date": "March 15, 2011"
+  },
+  {
+    "id": 418,
+    "author_translation_note": "by Jessica Mitford, introduction by Christopher Hitchens",
+    "isbn": "9781590171103",
+    "pub_date": "September 30, 2004"
+  },
+  {
+    "id": 419,
+    "author_translation_note": "by J. R. Ackerley, introduction by Eliot Weinberger",
+    "isbn": "9780940322257",
+    "pub_date": "January 31, 2000"
+  },
+  {
+    "id": 420,
+    "author_translation_note": "by Emmanuel Bove, introduction by Donald Breckenridge, translated from the French by Alyson Waters",
+    "isbn": "9781590178324",
+    "pub_date": "July 13, 2015"
+  },
+  {
+    "id": 421,
+    "author_translation_note": "by Jan Morris, introduction by Ursula K. Le Guin",
+    "isbn": "9781590174494",
+    "pub_date": "August 30, 2011"
+  },
+  {
+    "id": 422,
+    "author_translation_note": "by Don Carpenter, introduction by George Pelecanos",
+    "isbn": "9781590173244",
+    "pub_date": "September 8, 2009"
+  },
+  {
+    "id": 423,
+    "author_translation_note": "by Andrey Platonov, translated from the Russian by Robert Chandler and Elizabeth Chandler",
+    "isbn": "9781590175859",
+    "pub_date": "November 13, 2012"
+  },
+  {
+    "id": 424,
+    "author_translation_note": "by Fr. Rolfe, introduction by Alexander Theroux",
+    "isbn": "9780940322622",
+    "pub_date": "March 31, 2001"
+  },
+  {
+    "id": 425,
+    "author_translation_note": "by Paul Goodman, foreword by Casey Nelson Blake, with an essay by Susan Sontag",
+    "isbn": "9781590175811",
+    "pub_date": "September 11, 2012"
+  },
+  {
+    "id": 426,
+    "author_translation_note": "by Euripides, a new translation by Anne Carson",
+    "isbn": "9781590172537",
+    "pub_date": "August 1, 2006"
+  },
+  {
+    "id": 427,
+    "author_translation_note": "by Erich Kastner, introduction by Rodney Livingstone, translated from the German by Cyrus Brooks",
+    "isbn": "9781590175842",
+    "pub_date": "November 6, 2012"
+  },
+  {
+    "id": 428,
+    "author_translation_note": "by Kingsley Amis, introduction by Howard Jacobson",
+    "isbn": "9781590176634",
+    "pub_date": "September 17, 2013"
+  },
+  {
+    "id": 429,
+    "author_translation_note": "by Nancy Mitford, introduction by Liesl Schillinger",
+    "isbn": "9781590176238",
+    "pub_date": "July 23, 2013"
+  },
+  {
+    "id": 430,
+    "author_translation_note": "by Olivia Manning, introduction by Anthony Sattin",
+    "isbn": "9781590177211",
+    "pub_date": "June 10, 2014"
+  },
+  {
+    "id": 431,
+    "author_translation_note": "by Olivia Manning, introduction by Rachel Cusk",
+    "isbn": "9781590173312",
+    "pub_date": "January 19, 2010"
+  },
+  {
+    "id": 432,
+    "author_translation_note": "by Francis Steegmuller, introduction by Victor Brombert",
+    "isbn": "9781590171165",
+    "pub_date": "November 30, 2004"
+  },
+  {
+    "id": 433,
+    "author_translation_note": "by S. Josephine Baker, introduction by Helen Epstein",
+    "isbn": "9781590177068",
+    "pub_date": "September 24, 2013"
+  },
+  {
+    "id": 434,
+    "author_translation_note": "by Gabriel Chevallier, introduction by John Berger, translated from the French by Malcolm Imrie",
+    "isbn": "9781590177167",
+    "pub_date": "May 20, 2014"
+  },
+  {
+    "id": 435,
+    "author_translation_note": "by Jean-Patrick Manchette, afterword by Jean Echenoz, translated from the French by Donald Nicholson-Smith",
+    "isbn": "9781590173817",
+    "pub_date": "April 26, 2011"
+  },
+  {
+    "id": 436,
+    "author_translation_note": "by John Collier, introduction by Ray Bradbury",
+    "isbn": "9781590170519",
+    "pub_date": "May 31, 2003"
+  },
+  {
+    "id": 437,
+    "author_translation_note": "by Tove Jansson, introduction by Ali Smith, translated from the Swedish by Thomas Teal",
+    "isbn": "9781590173787",
+    "pub_date": "March 15, 2011"
+  },
+  {
+    "id": 438,
+    "author_translation_note": "by Vasily Grossman, introduction by Robert Chandler, translated from the Russian by Robert Chandler, Elizabeth Chandler, and Anna Aslanyan",
+    "isbn": "9781590173282",
+    "pub_date": "December 1, 2009"
+  },
+  {
+    "id": 439,
+    "author_translation_note": "by L.P. Hartley, introduction by Anita Brookner",
+    "isbn": "9780940322806",
+    "pub_date": "August 1, 2001"
+  },
+  {
+    "id": 440,
+    "author_translation_note": "by Leonardo Sciascia, introduction by Carlin Romano, translated from the Italian by Adrienne Foulke",
+    "isbn": "9781590170625",
+    "pub_date": "October 31, 2003"
+  },
+  {
+    "id": 441,
+    "author_translation_note": "by Yuri Olesha, introduction by Ken Kalfus, translated from the Russian by Marian Schwartz",
+    "isbn": "9781590170861",
+    "pub_date": "May 31, 2004"
+  },
+  {
+    "id": 442,
+    "author_translation_note": "by Upamanyu Chatterjee, introduction by Akhil Sharma",
+    "isbn": "9781590171790",
+    "pub_date": "April 4, 2006"
+  },
+  {
+    "id": 443,
+    "author_translation_note": "by Kingsley Amis, introduction by Craig Brown",
+    "isbn": "9781590177594",
+    "pub_date": "April 28, 2015"
+  },
+  {
+    "id": 444,
+    "author_translation_note": "by Joan Chase, introduction by Meghan O'Rourke",
+    "isbn": "9781590177150",
+    "pub_date": "April 15, 2014"
+  },
+  {
+    "id": 445,
+    "author_translation_note": "by Daphne du Maurier, selected and with an introduction by Patrick McGrath",
+    "isbn": "9781590172889",
+    "pub_date": "October 28, 2008"
+  },
+  {
+    "id": 446,
+    "author_translation_note": "by Charles Simic",
+    "isbn": "9781590174869",
+    "pub_date": "September 20, 2011"
+  },
+  {
+    "id": 447,
+    "author_translation_note": "by Friedrich Reck, afterword by Richard J. Evans, translated from the German by Paul Rubens",
+    "isbn": "9781590175866",
+    "pub_date": "February 12, 2013"
+  },
+  {
+    "id": 448,
+    "author_translation_note": "by Philippe-Paul de S\u00e9gur, introduction by Mark Danner, translated from the French by J. David Townsend",
+    "isbn": "9781590172827",
+    "pub_date": "October 21, 2008"
+  },
+  {
+    "id": 449,
+    "author_translation_note": "by Kingsley Amis, foreword by Rachel Cusk",
+    "isbn": "9781590178249",
+    "pub_date": "August 4, 2015"
+  },
+  {
+    "id": 450,
+    "author_translation_note": "by Nikolai Gogol, translated from the Russian and with an introduction by Donald Rayfield",
+    "isbn": "9781590173763",
+    "pub_date": "July 17, 2012"
+  },
+  {
+    "id": 451,
+    "author_translation_note": "by Erich Auerbach, introduction by Michael Dirda",
+    "isbn": "9781590172193",
+    "pub_date": "January 16, 2007"
+  },
+  {
+    "id": 452,
+    "author_translation_note": "by Bohumil Hrabal, introduction by Adam Thirlwell, translated from the Czech by Michael Henry Heim",
+    "isbn": "9781590173770",
+    "pub_date": "May 3, 2011"
+  },
+  {
+    "id": 453,
+    "author_translation_note": "by Raymond Radiguet, translated from the French by Annapaola Cancogni",
+    "isbn": "9781590171387",
+    "pub_date": "March 31, 2005"
+  },
+  {
+    "id": 454,
+    "author_translation_note": "by Caroline Blackwood, afterword by Andrew Solomon",
+    "isbn": "9781590170069",
+    "pub_date": "August 1, 2002"
+  },
+  {
+    "id": 455,
+    "author_translation_note": "by Sanford Friedman, introduction by Richard Howard",
+    "isbn": "9781590177624",
+    "pub_date": "September 2, 2014"
+  },
+  {
+    "id": 456,
+    "author_translation_note": "written and with a new introduction by Jan Morris",
+    "isbn": "9781590171899",
+    "pub_date": "May 16, 2006"
+  },
+  {
+    "id": 457,
+    "author_translation_note": "by Alberto Moravia, introduction by Tim Parks, translated from the Italian by Angus Davidson",
+    "isbn": "9781590171226",
+    "pub_date": "July 31, 2004"
+  },
+  {
+    "id": 458,
+    "author_translation_note": "by Victor Serge, translated from the French and with an introduction by Richard Greeman",
+    "isbn": "9781590173664",
+    "pub_date": "January 11, 2011"
+  },
+  {
+    "id": 459,
+    "author_translation_note": "by Stefan Zweig, introduction by George Prochnik, translated from the German by Anthea Bell",
+    "isbn": "9781590174999",
+    "pub_date": "May 29, 2012"
+  },
+  {
+    "id": 460,
+    "author_translation_note": "by William Roughead, introduction by Luc Sante",
+    "isbn": "9780940322462",
+    "pub_date": "August 31, 2000"
+  },
+  {
+    "id": 461,
+    "author_translation_note": "by Kenneth Fearing, introduction by Robert Polito",
+    "isbn": "9781590171820",
+    "pub_date": "October 17, 2006"
+  },
+  {
+    "id": 462,
+    "author_translation_note": "by Gabriel Garc\u00eda M\u00e1rquez, preface by Francisco Goldman, translated from the Spanish by Asa Zatz",
+    "isbn": "9781590173404",
+    "pub_date": "July 6, 2010"
+  },
+  {
+    "id": 463,
+    "author_translation_note": "by John Wyndham, afterword by Margaret Atwood",
+    "isbn": "9781590178522",
+    "pub_date": "August 18, 2015"
+  },
+  {
+    "id": 464,
+    "author_translation_note": "by Stefan Zweig, introduction by Peter Gay, translated from the German by Joel Rotenberg",
+    "isbn": "9781590171691",
+    "pub_date": "December 9, 2005"
+  },
+  {
+    "id": 465,
+    "author_translation_note": "by Henry de Montherlant, introduction by Gary Indiana, translated from the French by Terence Kilmartin",
+    "isbn": "9781590173046",
+    "pub_date": "February 17, 2009"
+  },
+  {
+    "id": 466,
+    "author_translation_note": "by Dorothy Baker, afterword by Deborah Eisenberg",
+    "isbn": "9781590176016",
+    "pub_date": "August 21, 2012"
+  },
+  {
+    "id": 467,
+    "author_translation_note": "by John Williams, introduction by Michelle Latiolais",
+    "isbn": "9781590171981",
+    "pub_date": "January 16, 2007"
+  },
+  {
+    "id": 468,
+    "author_translation_note": "by Margot Wittkower and Rudolf Wittkower, introduction by Joseph Connors",
+    "isbn": "9781590172131",
+    "pub_date": "November 28, 2006"
+  },
+  {
+    "id": 469,
+    "author_translation_note": "by Alberto Moravia, introduction by William Weaver, translated from the Italian by Angus Davidson",
+    "isbn": "9781590171219",
+    "pub_date": "July 31, 2004"
+  },
+  {
+    "id": 470,
+    "author_translation_note": "by William Attaway, introduction by Darryl Pinckney",
+    "isbn": "9781590171349",
+    "pub_date": "January 31, 2005"
+  },
+  {
+    "id": 471,
+    "author_translation_note": "by Geoffrey Wolff",
+    "isbn": "9781590170663",
+    "pub_date": "August 31, 2003"
+  },
+  {
+    "id": 472,
+    "author_translation_note": "by Stefan Zweig, introduction by Joan Acocella, translated from the German by Phyllis and Trevor Blewitt",
+    "isbn": "9781590172001",
+    "pub_date": "June 20, 2006"
+  },
+  {
+    "id": 473,
+    "author_translation_note": "by Patrick Leigh Fermor, introduction by Jan Morris",
+    "isbn": "9781590171660",
+    "pub_date": "October 3, 2005"
+  },
+  {
+    "id": 474,
+    "author_translation_note": "by Robert Walser, edited by Jochen Greven, translated from the German and with an introduction by Susan Bernofsky",
+    "isbn": "9781590174548",
+    "pub_date": "January 24, 2012"
+  },
+  {
+    "id": 475,
+    "author_translation_note": "by Howard Sturgis, introduction by Edmund White, afterword by E.M. Forster",
+    "isbn": "9781590172667",
+    "pub_date": "March 4, 2008"
+  },
+  {
+    "id": 476,
+    "author_translation_note": "by Intizar Husain, introduction by Asif Farrukhi, translated by Frances W. Pritchett",
+    "isbn": "9781590175828",
+    "pub_date": "December 26, 2012"
+  },
+  {
+    "id": 477,
+    "author_translation_note": "by Sigizmund Krzhizhanovsky, introduction by Adam Thirlwell, a new translation from the Russian by Joanne Turnbull",
+    "isbn": "9781590176702",
+    "pub_date": "December 3, 2013"
+  },
+  {
+    "id": 478,
+    "author_translation_note": "by John Williams, introduction by Daniel Mendelsohn",
+    "isbn": "9781590178218",
+    "pub_date": "August 19, 2014"
+  },
+  {
+    "id": 479,
+    "author_translation_note": "by Adolfo Bioy Casares, introduction by James Sallis, translated from the Spanish by Suzanne Jill Levine",
+    "isbn": "9781590170953",
+    "pub_date": "August 31, 2004"
+  },
+  {
+    "id": 480,
+    "author_translation_note": "by Italo Svevo, introduction by James Lasdun, translated from the Italian by Beryl de Zoete",
+    "isbn": "9780940322844",
+    "pub_date": "September 30, 2001"
+  },
+  {
+    "id": 481,
+    "author_translation_note": "by Glenway Wescott, introduction by David Leavitt",
+    "isbn": "9781590170816",
+    "pub_date": "April 30, 2004"
+  },
+  {
+    "id": 482,
+    "author_translation_note": "by Angus Wilson, introduction by Jane Smiley",
+    "isbn": "9781590171424",
+    "pub_date": "March 15, 2005"
+  },
+  {
+    "id": 483,
+    "author_translation_note": "by Elizabeth Taylor, introduction by Hilary Mantel",
+    "isbn": "9781590174975",
+    "pub_date": "February 14, 2012"
+  },
+  {
+    "id": 484,
+    "author_translation_note": "by Gregor von Rezzori, introduction by Daniel Kehlmann, translated from the German by Philip Boehm",
+    "isbn": "9781590173411",
+    "pub_date": "January 10, 2012"
+  },
+  {
+    "id": 485,
+    "author_translation_note": "by Vasily Grossman, translated from the Russian and with an introduction by Robert Chandler, With an introduction and notes by Yury Bit-Yunan, additional translation by Elizabeth Chandler",
+    "isbn": "9781590176184",
+    "pub_date": "February 19, 2013"
+  },
+  {
+    "id": 486,
+    "author_translation_note": "by Tete-Michel Kpomassie, introduction by Al Alvarez, translated from the French by James Kirkup",
+    "isbn": "9780940322882",
+    "pub_date": "October 31, 2001"
+  },
+  {
+    "id": 487,
+    "author_translation_note": "by  Nescio, introduction by Joseph O'Neill, translated from the Dutch by Damion Searls",
+    "isbn": "9781590174920",
+    "pub_date": "March 20, 2012"
+  },
+  {
+    "id": 488,
+    "author_translation_note": "by Constance Rourke, introduction by Greil Marcus",
+    "isbn": "9781590170793",
+    "pub_date": "February 29, 2004"
+  },
+  {
+    "id": 489,
+    "author_translation_note": "by G.V. Desani, introduction by Anthony Burgess",
+    "isbn": "9781590172421",
+    "pub_date": "November 6, 2007"
+  },
+  {
+    "id": 490,
+    "author_translation_note": "by Guy de Maupassant, translated from the French and with a preface by Richard Howard",
+    "isbn": "9781590172605",
+    "pub_date": "December 8, 2009"
+  },
+  {
+    "id": 491,
+    "author_translation_note": "by Jean Strouse, preface by Colm T\u00f3ib\u00edn",
+    "isbn": "9781590174531",
+    "pub_date": "November 1, 2011"
+  },
+  {
+    "id": 492,
+    "author_translation_note": "by James Schuyler, introduction by John Ashbery",
+    "isbn": "9780940322493",
+    "pub_date": "November 30, 2000"
+  },
+  {
+    "id": 493,
+    "author_translation_note": "by Ronald Blythe, introduction by Matt Weiland",
+    "isbn": "9781590178300",
+    "pub_date": "September 22, 2015"
+  },
+  {
+    "id": 494,
+    "author_translation_note": "by Alberto Moravia, translated from the Italian by Michael F. Moore",
+    "isbn": "9781590177235",
+    "pub_date": "July 8, 2014"
+  },
+  {
+    "id": 495,
+    "author_translation_note": "by Iris Owens, introduction by Emily Prager",
+    "isbn": "9781590173633",
+    "pub_date": "November 9, 2010"
+  },
+  {
+    "id": 496,
+    "author_translation_note": "by Guy de Maupassant, translated and with an introduction by Douglas Parm\u00e9e",
+    "isbn": "9781590172599",
+    "pub_date": "April 29, 2008"
+  },
+  {
+    "id": 497,
+    "author_translation_note": "by Georges Simenon, introduction by Roger Ebert, translated from the French by Louise Varese",
+    "isbn": "9781590173855",
+    "pub_date": "October 18, 2011"
+  },
+  {
+    "id": 498,
+    "author_translation_note": "by Darcy O'Brien, introduction by Seamus Heaney",
+    "isbn": "9780940322790",
+    "pub_date": "August 31, 2001"
+  },
+  {
+    "id": 499,
+    "author_translation_note": "by Elizabeth Taylor, introduction by Roxana Robinson",
+    "isbn": "9781590178485",
+    "pub_date": "June 2, 2015"
+  },
+  {
+    "id": 500,
+    "author_translation_note": "by Patrick Leigh Fermor, introduction by Karen Armstrong",
+    "isbn": "9781590172445",
+    "pub_date": "October 30, 2007"
+  },
+  {
+    "id": 501,
+    "author_translation_note": "by Patrick Leigh Fermor, introduction by Jan Morris",
+    "isbn": "9781590171653",
+    "pub_date": "October 3, 2005"
+  },
+  {
+    "id": 502,
+    "author_translation_note": "by Robert Walser, introduction by Ben Lerner, translated from the German by Damion Searls",
+    "isbn": "9781590176726",
+    "pub_date": "September 3, 2013"
+  },
+  {
+    "id": 503,
+    "author_translation_note": "by Sasha Sokolov, a new translation from the Russian by Alexander Boguslawski",
+    "isbn": "9781590178461",
+    "pub_date": "November 17, 2015"
+  },
+  {
+    "id": 504,
+    "author_translation_note": "by Alistair Horne",
+    "isbn": "9781590172186",
+    "pub_date": "October 10, 2006"
+  },
+  {
+    "id": 505,
+    "author_translation_note": "by Marcellus Emants, translated from the Dutch and with an introduction by J.M. Coetzee",
+    "isbn": "9781590173473",
+    "pub_date": "February 22, 2011"
+  },
+  {
+    "id": 506,
+    "author_translation_note": "by J. L. Carr, introduction by Michael Holroyd",
+    "isbn": "9780940322479",
+    "pub_date": "October 31, 2000"
+  },
+  {
+    "id": 507,
+    "author_translation_note": "by L. J. Davis, introduction by Jonathan Lethem",
+    "isbn": "9781590173008",
+    "pub_date": "March 10, 2009"
+  },
+  {
+    "id": 508,
+    "author_translation_note": "by Sybille Bedford, introduction by Brenda Wineapple",
+    "isbn": "9781590178263",
+    "pub_date": "March 3, 2015"
+  },
+  {
+    "id": 509,
+    "author_translation_note": "by Frigyes Karinthy, introduction by Oliver Sacks, translated from the Hungarian by Vernon Duckworth Barker",
+    "isbn": "9781590172582",
+    "pub_date": "March 11, 2008"
+  },
+  {
+    "id": 510,
+    "author_translation_note": "by Ivy Compton-Burnett, afterword by Francine Prose",
+    "isbn": "9780940322646",
+    "pub_date": "February 28, 2001"
+  },
+  {
+    "id": 511,
+    "author_translation_note": "by Richard Hughes, introduction by Francine Prose",
+    "isbn": "9780940322158",
+    "pub_date": "September 30, 1999"
+  },
+  {
+    "id": 512,
+    "author_translation_note": "by Charles Duff, introduction by Christopher Hitchens",
+    "isbn": "9780940322677",
+    "pub_date": "October 31, 1999"
+  },
+  {
+    "id": 513,
+    "author_translation_note": "by Elizabeth Taylor, introduction by Caleb Crain",
+    "isbn": "9781590174968",
+    "pub_date": "February 14, 2012"
+  },
+  {
+    "id": 514,
+    "author_translation_note": "by Natalia Ginzburg, afterword by Peg Boyers, translated from the Italian by Jenny McPhee",
+    "isbn": "9781590178386",
+    "pub_date": "April 25, 2017"
+  },
+  {
+    "id": 515,
+    "author_translation_note": "by Elizabeth David, foreword by Clarissa Dickson Wright",
+    "isbn": "9781590170038",
+    "pub_date": "April 30, 2002"
   }
 ]
