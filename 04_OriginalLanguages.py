@@ -9,7 +9,7 @@ language_list = []
 #setting up count which will be the ID later
 count=0
 
-#function 
+#function which makes sure the language pulled from the json comes out clean
 def language_pull_clean(input):
 
 	input = str(input)
@@ -17,24 +17,34 @@ def language_pull_clean(input):
 	
 	return input 
 
+#looping through the json to find original languages
 for orig_language in book_info:
 
+	#implementing the regex
 	find_language = re.compile("(?<=from the) [A-Z][a-z]+")
 	orig_language = find_language.findall(str(orig_language))
+	
+	#using function so that we get a language without any extra stuff
 	orig_language = language_pull_clean(orig_language)
-		
+	
+	#if statement to replace empty string with "English"	
 	if orig_language == "":
 		orig_language = "English"		
-		
+	
+	#adding a count after each loop to give each language the proper id	
 	count= count + 1
-		
+	
+	#setting up dictionary for json file	
 	orig_language_info = {}
 	
+	#defining keys and values in dictionary
 	orig_language_info["id"] = count
 	orig_language_info["original_language"] = orig_language
 	
+	#appending our dictionaries to the list
 	language_list.append(orig_language_info)
-	
+
+#dumping our list of dictionaries into a json file	
 json.dump(language_list, open("language_list.json", "w"), indent=2)
 	
 	
