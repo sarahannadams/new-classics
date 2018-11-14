@@ -13,7 +13,12 @@ count=0
 def language_pull_clean(input):
 
 	input = str(input)
-	input = input.strip("[' ']")
+	pattern = re.compile("<re.Match object; span=\([0-9]+, [0-9]+\), match=' ")
+	match = pattern.findall(str(input))
+	input = input.strip(str(match))
+	pattern = re.compile("'>")
+	match = pattern.findall(str(input))
+	input = input.strip(str(match))
 	
 	return input 
 
@@ -22,13 +27,13 @@ for orig_language in book_info:
 
 	#implementing the regex
 	find_language = re.compile("(?<=from the) [A-Z][a-z]+")
-	orig_language = find_language.findall(str(orig_language))
+	orig_language = find_language.search(str(orig_language))
 	
 	#using function so that we get a language without any extra stuff
 	orig_language = language_pull_clean(orig_language)
 	
-	#if statement to replace empty string with "English"	
-	if orig_language == "":
+	#if statement to replace "None" string with "English"	
+	if orig_language == "None":
 		orig_language = "English"		
 	
 	#adding a count after each loop to give each language the proper id	
@@ -46,6 +51,9 @@ for orig_language in book_info:
 
 #dumping our list of dictionaries into a json file	
 json.dump(language_list, open("language_list.json", "w"), indent=2)
+
+
+
 	
 	
 
