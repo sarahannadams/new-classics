@@ -13,18 +13,18 @@ count=0
 for combined_authors in book_info:
 
 	#implementing the regex
-	find_author = re.compile("")
-	author = find_author.findall(combined_authors)		
+	find_author = re.compile("([A-Z][a-z]+){1,3}")
+	author = find_author.findall(str(combined_authors))		
 	
 	#adding a count after each loop to give each language the proper id	
 	count= count + 1
 	
 	#setting up dictionary for json file	
-	orig_language_info = {}
+	author_info = {}
 	
 	#defining keys and values in dictionary
 	author_info["id"] = count
-	author_info["author"] = orig_language
+	author_info["author"] = author
 	
 	#appending our dictionaries to the list
 	author_list.append(author_info)
