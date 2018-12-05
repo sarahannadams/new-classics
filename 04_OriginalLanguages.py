@@ -32,12 +32,20 @@ for orig_language in book_info:
 	#using function so that we get a language without any extra stuff
 	orig_language = language_pull_clean(orig_language)
 	
-	#if statement to replace "None" string with "English"	
-	if orig_language == "None":
-		orig_language = "English"		
-	
 	#adding a count after each loop to give each language the proper id	
 	count= count + 1
+	
+	#if statement to replace "None" string with appropriate language where regex didn't pick it up	
+	if orig_language == "None" and count == 184:
+		orig_language = "Russian"
+	if orig_language == "None" and count == 346:
+		orig_language = "Chinese"
+	if orig_language == "None" and count == 337:
+		orig_language = "Various"	
+	if orig_language == "None" and count == 250:
+		orig_language= "Italian"
+	elif orig_language == "None":
+		orig_language= "English"		
 	
 	#setting up dictionary for json file	
 	orig_language_info = {}
