@@ -9,7 +9,6 @@ Countless lists of “100 Classics to Read” (or similar) exist for those works
 Workflow for the project can be found on the project [wiki page](https://github.com/sarahannadams/some-new-classics/wiki).
 
 ## Team Members
-##### Alice Griffin - [@AliceLGriff](https://twitter.com/AliceLGriff)
-##### Sarah Ann Adams - [@_sarahannadams](https://twitter.com/_sarahannadams)
+##### Alice Griffin - [@AliceLGriff](https://twitter.com/AliceLGriff)##### Sarah Ann Adams - [@_sarahannadams](https://twitter.com/_sarahannadams)
 
 This project was created for the Fall 2018 [Pratt Institute School of Information](https://www.pratt.edu/academics/information/) course [Programming for Cultural Heritage](http://pfch.nyc/).
