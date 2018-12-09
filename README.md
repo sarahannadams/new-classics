@@ -1,6 +1,6 @@
-# SOME NEW CLASSICS
+## SOME NEW CLASSICS
 
-## About
+### About
 
 Countless lists of “100 Classics to Read” (or similar) exist for those works which have been defined as [“capital L” Literature](http://www.electricka.com/etaf/muses/literature/literature_popups/whats_literature.htm), works that stand the test of time. When one thinks about reading “the classics” as it pertains to literature, certain books and authors come to mind, many of which are books from white, romance language speaking, and/or eurocentric voices. How can the link between “what is good literature” and the current inclination toward white and eurocentric storytelling be addressed so it can take up less oxygen in the room and make space for broader and more varied voices?  
 
@@ -8,7 +8,7 @@ Countless lists of “100 Classics to Read” (or similar) exist for those works
 
 Workflow for the project can be found on the project [wiki page](https://github.com/sarahannadams/some-new-classics/wiki).
 
-## Team Members
-##### Alice Griffin - [@AliceLGriff](https://twitter.com/AliceLGriff)##### Sarah Ann Adams - [@_sarahannadams](https://twitter.com/_sarahannadams)
+### Team Members
+##### Alice Griffin - [@AliceLGriff](https://twitter.com/AliceLGriff) + Sarah Ann Adams - [@_sarahannadams](https://twitter.com/_sarahannadams)
 
 This project was created for the Fall 2018 [Pratt Institute School of Information](https://www.pratt.edu/academics/information/) course [Programming for Cultural Heritage](http://pfch.nyc/).
