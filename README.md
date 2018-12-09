@@ -9,4 +9,4 @@ Countless lists of “100 Classics to Read” (or similar) exist for those works
 Workflow for the project can be found on the project [wiki page](https://github.com/sarahannadams/some-new-classics/wiki).
 
 
-####This project was created by [alice griffin](https://twitter.com/AliceLGriff) + [sarah ann adams](https://twitter.com/_sarahannadams) for the Fall 2018 [Pratt Institute School of Information](https://www.pratt.edu/academics/information/) course [Programming for Cultural Heritage](http://pfch.nyc/). Visualizations and further information can be found at http://bit.ly/some-new-classics.
+#### This project was created by [alice griffin](https://twitter.com/AliceLGriff) + [sarah ann adams](https://twitter.com/_sarahannadams) for the Fall 2018 [Pratt Institute School of Information](https://www.pratt.edu/academics/information/) course [Programming for Cultural Heritage](http://pfch.nyc/). Visualizations and further information can be found at http://bit.ly/some-new-classics.
