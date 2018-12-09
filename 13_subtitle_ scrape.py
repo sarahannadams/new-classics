@@ -67,7 +67,7 @@ for url in url_list:
 # 	print(subtitle_info_list)
 
 # #dumping our list of dictionaries into a JSON file
-json.dump(subtitle_info_list, open("subtitles.json", "w"), indent=2)
+json.dump(subtitle_info_list, open("14_subtitles.json", "w"), indent=2)
 
 #prints the number of titles to command line (not included in JSON file)	
 print(len(subtitle_info_list))

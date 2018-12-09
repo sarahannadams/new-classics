@@ -78,7 +78,7 @@ while page <= 9:
 	page = page + 1
 
 	#dumping our list of dictionaries into a JSON file
-	json.dump(book_list, open("new_classics.json", "w"), indent=2)
+	json.dump(book_list, open("02_classics.json", "w"), indent=2)
 	
 #prints the number of titles to command line	
 print(len(book_list))

@@ -100,7 +100,7 @@ for url in url_list:
 	time.sleep(3)
 
 #dumping our list of dictionaries into a JSON file
-json.dump(book_info_list, open("new_classics_book_info.json", "w"), indent=2)
+json.dump(book_info_list, open("06_classics_info.json", "w"), indent=2)
 
 #prints the number of titles to command line (not included in JSON file)	
 print(len(book_info_list))

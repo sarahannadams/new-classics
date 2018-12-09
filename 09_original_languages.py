@@ -58,7 +58,7 @@ for orig_language in book_info:
 	language_list.append(orig_language_info)
 
 #dumping our list of dictionaries into a json file	
-json.dump(language_list, open("language_list.json", "w"), indent=2)
+json.dump(language_list, open("10_language_list.json", "w"), indent=2)
 
 
 

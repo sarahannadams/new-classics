@@ -1,0 +1,804 @@
+book_id,author
+1,Julio Ramón Ribeyro
+2,Carlton Lake
+2,Françoise Gilot
+3,Jean-Patrick Manchette
+4,Margarita Liberaki
+5,Kurt Tucholsky
+6,Vasily Grossman
+7,Walter Benjamin
+8,Maxim Osipov
+9,Gregor von Rezzori
+10,Lillian Ross
+11,Emmanuel Bove
+12,Jean Giono
+13,John Williams
+14,Michael Walzer
+15,Darius James
+16,Victor Serge
+17,Multatuli
+18,Gabriele Tergit
+19,Salka Viertel
+20,Lev Ozerov
+21,Józef Czapski
+22,Józef Czapski
+23,Jean Améry
+24,Iris Origo
+25,Iris Origo
+26,Kenji Miyazawa
+27,Ivo Andrić
+28,David R. Bunch
+29,Lesley Blanch
+30,Juan Eduardo Cirlot
+31,Wolfgang Herrndorf
+32,Tom Kristensen
+33,Anna Seghers
+34,Robert Aickman
+35,Helen Weinzweig
+36,Matei Calinescu
+37,Sybille Bedford
+38,Jean-Patrick Manchette
+39,Varlam Shalamov
+40,Curzio Malaparte
+41,Walter Kempowski
+42,Uwe Johnson
+43,Alfred Döblin
+44,Honoré de Balzac
+45,Barbara Comyns
+46,Julien Gracq
+47,François-René de Chateaubriand
+48,Henry Green
+49,Marina Tsvetaeva
+50,Henry Green
+51,Joan Sales
+52,Eileen Chang
+53,Elizabeth Hardwick
+54,David Plante
+55,Richard Stern
+56,Jean Giono
+57,Dorothy B. Hughes
+58,Magda Szabó
+59,Louis Guilloux
+60,Guido Morselli
+61,Patrick Leigh Fermor
+62,Thorkild Hansen
+63,Qiu Miaojin
+64,Alice Goodman
+65,Alice Herdan-Zuckmayer
+66,Norman Podhoretz
+67,Arthur Schnitzler
+68,Umberto Saba
+69,Leonora Carrington
+70,Sybille Bedford
+71,Henry Green
+72,Henry Green
+73,Henry Green
+74,Marcabru
+74,Aimeric de Peguilhan
+74,Peire Cardenal
+74,Sordello
+74,Giraut Riqiuer
+74,"Guillem IX, Duke of Aquitaine"
+74,Beatritz de Dia
+74,Bernart de Ventadorn
+74,Bertran de Born
+74,Guilhem de Cabestanh
+74,Count of Foix
+74,Peire Vidal
+74,Pons de Capdueill
+74,Jaufré Rudel de Blaia
+74,Peire D'Alvernhe
+74,Aimeric de Belenoi
+74,Cercamon
+74,Gavaudan
+74,Jausbert de Puycibot
+74,Arnaut de Mareuil
+74,Bernart Arnaut de Moncuc
+74,Cadenet
+74,Montanhagol
+74,Arnaut Daniel
+74,Raimon Jordan
+74,Peire Salvatge
+74,Anonymous
+74,Maestre Bernart d'Auriac
+74,Gaucelm Faidit
+74,Raimbaut de Vaiqueras
+74,The Monk of Montaudon
+74,Pedro III of Aragon
+75,Sigizmund Krzhizhanovsky
+76,Hans Herbert Grimm
+77,unknown
+78,Guy de Maupassant
+79,U.R. Ananthamurthy
+80,Robert Bresson
+81,Henry Green
+82,Magda Szabó
+83,Leopoldo Alas
+84,Thomas Flanagan
+85,Thomas Flanagan
+86,Henry Green
+87,Henry Green
+88,Robert Walser
+89,Eve Babitz
+90,Ge Fei
+91,Teffi
+92,Alfred Döblin
+93,D. G. Compton
+94,Sybille Bedford
+95,Vicki Baum
+96,Jean d'Ormesson
+97,Mavis Gallant
+98,Jean-Paul Clébert
+99,Patrick Modiano
+100,Patrick Modiano
+101,Teffi
+102,Barnabe Googe
+102,Sir Philip Sidney
+102,"Thomas, Lord Vaux"
+102,George Gascoigne
+102,Sir Walter Ralegh
+102,Edmund Spenser
+102,Sir Edward Dyer
+102,Michael Drayton
+102,"Henry Howard, Earl of Surrey"
+102,George Peele
+102,John Donne
+102,Thomas Campion
+102,Thomas Lodge
+102,Sir Thomas More
+102,Thomas Nashe
+102,Sir Thomas Wyatt
+102,Robert Greene
+102,Ben Jonson
+102,William Shakespeare
+102,George Turberville
+102,Samuel Daniel
+102,Fulke Greville
+102,John Skelton
+102,unknown
+103,Eleanor Perényi
+104,Borislav Pekić
+105,Bernard Wolfe
+105,Mezz Mezzrow
+106,Jean Giono
+107,Miron Białoszewski
+108,Roberto Arlt
+109,William Sloane
+110,George Psychoundakis
+111,Aleksandar Tišma
+112,John Williams
+113,Barbara Comyns
+114,Jakob Wassermann
+115,Benjamin Fondane
+116,Agnes de Mille
+117,Elliott Chaze
+118,Leonard Gardner
+119,Eve Babitz
+120,Friedrich Nietzsche
+121,Antonio di Benedetto
+122,Dorothy Baker
+123,Elizabeth Taylor
+124,Raymond Queneau
+125,Stephen Benatar
+126,Tatyana Tolstaya
+127,Marc Fumaroli
+128,J.F. Powers
+129,James Schuyler
+130,J. R. Ackerley
+131,Jean-Paul Sartre
+132,Raymond Queneau
+133,Oakley Hall
+134,Simone Weil
+134,Rachel Bespaloff
+135,Gershom Scholem
+136,James Vance Marshall
+137,Sir Walter Scott
+137,Innes Randolph
+137,Gilbert Keith Chesterton
+137,Thomas Moore
+137,Alfred Edward Housman
+137,George Canning
+137,John Betjeman
+137,Robert Herrick
+137,Thomas Hardy
+137,Jonathan Swift
+137,Robert Burns
+137,William Cleland
+137,William Dunbar
+137,Lord Francis Jeffrey
+137,Charles Lamb
+137,Arthur Hugh Clough
+137,Walter Savage Landor
+137,Charles Stuart Calverly
+137,Lewis Carroll
+137,Charles Lutwidge Dodgson
+137,Hilaire Belloc
+137,Siegfried Sassoon
+137,Henry Fielding
+137,John Gay
+137,Richard Harris Barham
+137,Thomas Ravenscroft
+137,Thomas Durfey
+137,Richard Brinsley Sheridan
+137,Edmund Spenser
+137,Oliver Goldsmith
+137,David Garrick
+137,Lord Thomas Babington Macaulay
+137,Edmund Clerihew Bentley
+137,Geoffrey Chaucer
+137,George Peele
+137,Paul Whitehead
+137,Thomas Campion
+137,Thomas Hood
+137,Thomas Jordan
+137,William Schwenck Gilbert
+137,William Blake
+137,Winthrop Mackworth Praed
+137,Rudyard Kipling
+137,Richard Porson
+137,Samuel Taylor Coleridge
+137,John Dryden
+137,Edward Ward
+137,John Fletcher
+137,Charles Dibdin
+137,Isaac Watts
+137,Samuel Butler
+137,Thomas Weelkes
+137,Antony Holborne
+137,Ben Jonson
+137,Andrew Marvell
+137,Ronald Arbuthnot Knox
+137,William Butler Yeats
+137,Lord George Gordon Byron
+137,Samuel C. Bushnell
+137,Herman Melville
+137,Richard Corbet
+137,"Thomas Wharton, Marquis of Wharton"
+137,Robert Bridges
+137,Sir John Suckling
+137,William Wordsworth
+137,Edward Lear
+137,Peter Pindar
+137,John Wolcot
+137,Sir John Harington
+137,Nicholas Vachel Lindsay
+137,William Shakespeare
+137,John Woodcock Graves
+137,Alexander Pope
+137,Richard Alfred Milliken
+137,Jane Taylor
+137,A. Godwin
+137,William Walsh
+137,Aurelian Townsend
+137,Laurence Price
+137,Martin Parker
+137,Maurice Evan Hare
+137,Robert Jones
+137,William Holborne
+137,David Herbert Lawrence
+137,John Hilton
+137,Arnold Enoch Bennett
+137,John Skelton
+137,Matthew Prior
+137,"John Wilmot, Earl of Rochester"
+137,"John Wilmot, Earl of Rochester"
+138,Nancy Mitford
+139,Ivan Turgenev
+140,Maude Hutchins
+141,Mavis Gallant
+142,John Updike
+142,Arthur C. Danto
+142,Elizabeth Hardwick
+142,Francine Prose
+142,Michael Cunningham
+142,James Wood
+142,Colm Tóibín
+142,Toni Morrison
+142,Eliot Weinberger
+142,Jonathan Lethem
+142,Lydia Davis
+142,Luc Sante
+142,Susan Sontag
+143,Victor Serge
+144,Ramon del Valle-Inclán
+145,Patrick Hamilton
+146,Nathaniel Hawthorne
+147,Russell Hoban
+148,Yasushi Inoue
+149,J.G. Farrell
+150,Georges Simenon
+151,Benito Pérez Galdós
+152,Anna Seghers
+153,Sanford Friedman
+154,Leonardo Sciascia
+155,Silvina Ocampo
+156,Yashar Kemal
+157,Thomas Flanagan
+158,M.I. Finley
+159,Helen Keller
+160,Bruce Duffy
+161,Richard Hughes
+162,Tove Jansson
+163,Leonardo Sciascia
+164,Tayeb Salih
+165,Nicolas Bouvier
+166,Georg Christoph Lichtenberg
+167,H.G. Wells
+168,Malcolm Lowry
+169,Barbara Comyns
+170,Aleksandar Tišma
+171,Saki
+172,Tess Slesinger
+173,Honoré de Balzac
+174,Tove Jansson
+175,Patrick Leigh Fermor
+176,Carl Van Vechten
+177,Milton Rokeach
+178,C.V. Wedgwood
+179,Edward Lewis Wallant
+180,Maria Dermout
+181,Nancy Mitford
+182,Tove Jansson
+183,Martin Farquhar Tupper
+183,Edgar Allen Poe
+183,Robert Merry
+183,Elizabeth Oakes Smith
+183,Sir Richard Blackmore
+183,Erasmus Darwin
+183,Adam Lindsay Gordon
+183,Robert Montgomery
+183,Joseph Cottle
+183,Henry Kirke White
+183,Henry Wadsworth Longfellow
+183,John Duncombe
+183,Abraham Cowley
+183,Ralph Waldo Emerson
+183,John Armstrong
+183,Thomas Holley Chivers
+183,Robert Burns
+183,Elizabeth Barrett Browning
+183,William Shenstone
+183,Joseph Addison
+183,Robert Southey
+183,John Close
+183,Thomas Sprat
+183,Thomas Chatterton
+183,Nahum Tate
+183,Oliver Goldsmith
+183,Colley Cibber
+183,"John Sheffield, Duke of Buckinghamshire"
+183,John Dryden
+183,Charles Mackay
+183,Christopher Smart
+183,Ambrose Philips
+183,Isaac Watts
+183,Julia Moore
+183,"George Gordon, Lord Byron"
+183,Sydney Thompson Dobell
+183,"Thomas Warton, the Younger"
+183,"Edward Robert Bulwer Lytton, Earl of Lytton"
+183,James Henry Leigh Hunt
+183,John Keats
+183,William Wordsworth
+183,Robert Pollok
+183,"Alfred, Lord Tennyson"
+183,Hannah Cowley
+183,George Crabbe
+183,Mary Robinson
+183,"Margaret Cavendish, Duchess of Newcastle"
+183,James Grainger
+183,John Dyer
+183,Edward Jerningham
+183,Thomas Haynes Bayly
+183,Cornelius Whur
+183,Edward Edwin Foot
+183,George Eveleigh
+183,John Banks
+183,Lord Hervey John
+183,Samuel Carter
+183,T. Baker
+183,Della Cruscans
+183,Edward Young
+183,Joseph Warton
+183,Eliza Cook
+184,Alexander Blok
+184,Anna Akhmatova
+184,Osip Mandelstam
+184,Velimir Khlebnikov
+184,Vladimir Mayakovsky
+184,Marina Tsvetaeva
+184,Boris Pasternak
+184,Sergei Esenin
+185,J.F. Powers
+186,Gilbert Seldes
+187,Gert Ledig
+188,Gregor von Rezzori
+189,Tatyana Tolstaya
+190,Patrick Hamilton
+191,Curzio Malaparte
+192,J.G. Farrell
+193,J.G. Farrell
+194,Cesare Pavese
+195,Osip Mandelstam
+196,Robert Kirk
+197,L.H. Myers
+198,Vasily Grossman
+199,Theodor Storm
+200,Camara Laye
+201,Vladimir Sorokin
+202,A.J.A. Symons
+203,Colette
+204,Penelope Mortimer
+205,Giuseppe Tomasi di Lampedusa
+206,James Hogg
+207,Max Beerbohm
+208,Anton Chekhov
+209,Stefan Zweig
+210,Glenway Wescott
+211,J.A. Baker
+212,K'ung Shang-jen
+213,Millen Brand
+214,Henry James
+215,Henry James
+216,Thomas Tryon
+217,Masanobu Fukuoka
+218,Elaine Dundy
+219,Kingsley Amis
+220,Joseph Joubert
+221,Henry James
+222,Elizabeth Hardwick
+223,Edith Wharton
+224,Alexandros Papadiamantis
+225,Jean Stafford
+226,Leonardo Sciascia
+227,Cesare Pavese
+228,Élisabeth Gille
+229,Lionel Trilling
+230,Brian Moore
+231,Jean-Patrick Manchette
+232,Iona Opie
+232,Peter Opie
+233,Hugo von Hofmannsthal
+234,Frans G. Bengtsson
+235,Brian Moore
+237,Bohumil Hrabal
+238,
+239,Stendhal
+240,Lionel Trilling
+241,Sigizmund Krzhizhanovsky
+242,Luigi Pirandello
+243,John Ehle
+244,David Stacton
+245,Henry David Thoreau
+246,Albert Cossery
+247,Henry Adams
+248,Henry James
+249,Adolfo Bioy Casares
+250,Dante Alighieri
+251,Honoré de Balzac
+252,Algernon Blackwood
+252,W.H. Harvey
+252,Charles Dickens
+252,L.P. Hartley
+252,R.H. Malden
+252,Robert Louis Stevenson
+252,E. Nesbit
+252,Bram Stoker
+252,Tom Hood
+252,W.W. Jacobs
+252,Wilkie Collins
+252,M.R. James
+253,Simon Leys
+254,Kingsley Amis
+255,Josep Pla
+256,T.H. White
+257,Shchedrin
+258,L.P. Hartley
+259,Ernst Junger
+260,Natsume Soseki
+261,John Horne Burns
+262,Janet Hobhouse
+263,Richard Hughes
+264,Rebecca West
+265,Andrey Platonov
+266,Der Nister
+267,Arthur Conan Doyle
+268,Dorothy B. Hughes
+269,Elizabeth von Arnim
+270,Russell Page
+271,Elaine Dundy
+272,Magda Szab�
+273,Boles_aw Prus
+274,Simon Leys
+275,Leonardo Sciascia
+276,Harold W. Cruse
+277,Paul Hazard
+278,Mavis Gallant
+279,Francis Wyndham
+280,John Wyndham
+281,Jules Valles
+282,Victor Serge
+283,Alexander Pushkin
+284,Bela Zombory-Moldovan
+285,Patrick Leigh Fermor
+286,Simone Schwarz-Bart
+287,Girolamo Cardano
+288,G.B. Edwards
+289,P.V. Glob
+290,Jeremias Gotthelf
+291,Kenneth Fearing
+292,Nirad C. Chaudhuri
+293,Robert Burton
+294,Kingsley Amis
+295,Gyula Krudy
+296,Alvaro Mutis
+297,Carlo Emilio Gadda
+298,William McPherson
+299,Linda Rosenkrantz
+300,Kingsley Amis
+301,Gyula Kr�dy
+302,Sylvia Townsend Warner
+303,Elizabeth David
+304,Robert Sheckley
+305,Tim Robinson
+306,Tim Robinson
+307,John Williams
+308,Renata Adler
+309,Jakov Lind
+310,Andrey Platonov
+311,Kabir
+312,Peter Handke
+313,Elizabeth Hardwick
+314,Dezs_ Kosztol�nyi
+315,Peter Handke
+316,Robert Montgomery Bird
+317,Richard Holmes
+318,Michel de Montaigne
+319,Mark Van Doren
+320,Edgar Allan Poe
+320,Bram Stoker
+320,Ambrose Bierce
+320,Ambrose Bierce
+320,Ambrose Bierce
+320,R. W. Chambers
+320,M. P. Shiel
+320,Arthur Machen
+320,Algernon Blackwood
+320,Henry James
+320,Walter de la Mare
+320,H. P. Lovecraft
+321,Max Beerbohm
+322,Elizabeth Hardwick
+323,Tayeb Salih
+324,Olivia Manning
+325,Patrick Leigh Fermor
+326,Geoffrey Household
+327,Adalbert Stifter
+328,Emmett Grogan
+329,Patrick White
+330,Raymond Kennedy
+331,Margaret Leech
+332,Jean Renoir
+333,Victor Segalen
+334,Sir Thomas Browne
+335,Alan Garner
+336,Edward John Trelawny
+337,Anton Chekhov
+337,Anton Chekhov
+337,Anton Chekhov
+337,Ludwig Tieck
+337,Jacob Grimm
+337,Wilhelm Grimm
+337,Robert Frost
+337,Ivan Turgenev
+337,Bertolt Brecht
+337,Isaac Babel
+337,Giovanni Verga
+337,Peter Taylor
+337,Hans Christian Anderson
+337,E. M. Forster
+337,Frank O'Connor
+337,Franz Kafka
+337,Franz Kafka
+337,Leo Tolstoy
+337,Leo Tolstoy
+337,Elizabeth Bowen
+337,William Blake
+337,Rainer Maria Rilke
+337,Nikolai Gogol
+337,Saint-Simon
+337,Hugo von Hofmannsthal
+337,Isak Dinesen
+337,William Wordsworth
+337,Katherine Anne Porter
+337,Chuang T�zu
+337,General Bible Author
+337,D. H. Lawrence
+338,Albert Cossery
+339,David Mendel
+340,Aeschylus
+341,Jean Genet
+342,Alexander Berkman
+343,Paul Radin
+344,Jessica Mitford
+345,Gilbert Highet
+346,Han Y�
+346,Tu Mu
+346,Tu Fu
+346,Lu T'ung
+346,Meng Chiao
+346,Li Shang-yin
+346,Li Ho
+347,Dino Buzzati
+348,Renata Adler
+349,Carlo Collodi
+350,David Kidd
+351,Georges Simenon
+352,Anton Chekhov
+353,Murray Kempton
+354,Mavis Gallant
+355,Richard Cobb
+356,Edmond de Goncourt
+356,Jules de Goncourt
+357,Eliza Fay
+358,Katharine White
+359,Kingsley Amis
+360,Malcolm Braly
+361,Simone Weil
+362,William H. Gass
+363,F�lix F�n�on
+364,Vivant Denon
+365,Tibor D�ry
+366,Harvey Swados
+367,William Lindsay Gresham
+368,Jules Renard
+369,George R. Stewart
+370,Eileen Chang
+371,J. R. Ackerley
+372,Th�ophile Gautier
+373,Alfred Hayes
+374,J. R. Ackerley
+375,Aleksander Wat
+376,Sylvia Townsend Warner
+377,Nina Berberova
+378,Georges Bernanos
+379,J.F. Powers
+380,Blaise Cendrars
+381,C�leste Albaret
+382,Henri Michaux
+383,Victor Serge
+384,Sigizmund Krzhizhanovsky
+385,Daniel Paul Schreber
+386,John Glassco
+387,Edmund Wilson
+388,Gregor von Rezzori
+389,Victor Serge
+390,Yashar Kemal
+391,James McCourt
+392,Dwight Macdonald
+393,May Sinclair
+394,Ivy Compton-Burnett
+395,Patrick Leigh Fermor
+396,Nancy Mitford
+397,Kingsley Amis
+398,Gillian Rose
+399,Eileen Chang
+400,Sylvia Townsend Warner
+401,Vasily Grossman
+402,Astolphe de Custine
+403,Rainer Maria Rilke
+403,Boris Pasternak
+403,Marina Tsvetayeva
+404,Qiu Miaojin
+405,Curzio Malaparte
+406,Stefan Zweig
+407,Antal Szerb
+408,Arun Kolatkar
+409,Robert Walser
+410,Theodor Fontane
+411,William Dean Howells
+412,William H. Gass
+413,Janet Malcolm
+414,David Jones
+415,Alfred Hayes
+416,Richard Hughes
+417,Vladimir Sorokin
+418,Jessica Mitford
+419,J. R. Ackerley
+420,Emmanuel Bove
+421,Jan Morris
+422,Don Carpenter
+423,Andrey Platonov
+424,Fr. Rolfe
+425,Paul Goodman
+426,Euripides
+427,Erich Kastner
+428,Kingsley Amis
+429,Nancy Mitford
+430,Olivia Manning
+431,Olivia Manning
+432,Francis Steegmuller
+433,S. Josephine Baker
+434,Gabriel Chevallier
+435,Jean-Patrick Manchette
+436,John Collier
+437,Tove Jansson
+438,Vasily Grossman
+439,L.P. Hartley
+440,Leonardo Sciascia
+441,Yuri Olesha
+442,Upamanyu Chatterjee
+443,Kingsley Amis
+444,Joan Chase
+445,Daphne du Maurier
+446,Charles Simic
+447,Friedrich Reck
+448,Philippe-Paul de S�gur
+449,Kingsley Amis
+450,Nikolai Gogol
+451,Erich Auerbach
+452,Bohumil Hrabal
+453,Raymond Radiguet
+454,Caroline Blackwood
+455,Sanford Friedman
+456,Jan Morris
+457,Alberto Moravia
+458,Victor Serge
+459,Stefan Zweig
+460,William Roughead
+461,Kenneth Fearing
+462,Gabriel Garc�a M�rquez
+463,John Wyndham
+464,Stefan Zweig
+465,Henry de Montherlant
+466,Dorothy Baker
+467,John Williams
+468,Margot Wittkower
+468,Rudolf Wittkower
+469,Alberto Moravia
+470,William Attaway
+471,Geoffrey Wolff
+472,Stefan Zweig
+473,Patrick Leigh Fermor
+474,Robert Walser
+475,Howard Sturgis
+476,Intizar Husain
+477,Sigizmund Krzhizhanovsky
+478,John Williams
+479,Adolfo Bioy Casares
+480,Italo Svevo
+481,Glenway Wescott
+482,Angus Wilson
+483,Elizabeth Taylor
+484,Gregor von Rezzori
+485,Vasily Grossman
+486,Tete-Michel Kpomassie
+487,Nescio
+488,Constance Rourke
+489,G.V. Desani
+490,Guy de Maupassant
+491,Jean Strouse
+492,James Schuyler
+493,Ronald Blythe
+494,Alberto Moravia
+495,Iris Owens
+496,Guy de Maupassant
+497,Georges Simenon
+498,Darcy O'Brien
+499,Elizabeth Taylor
+500,Patrick Leigh Fermor
+501,Patrick Leigh Fermor
+502,Robert Walser
+503,Sasha Sokolov
+504,Alistair Horne
+505,Marcellus Emants
+506,J. L. Carr
+507,L. J. Davis
+508,Sybille Bedford
+509,Frigyes Karinthy
+510,Ivy Compton-Burnett
+511,Richard Hughes
+512,Charles Duff
+513,Elizabeth Taylor
+514,Natalia Ginzburg
+515,Elizabeth David
