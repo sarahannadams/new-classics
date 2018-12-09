@@ -10,4 +10,4 @@ Workflow for the project can be found on the project [wiki page](https://github.
 
 ***
 
-This project was created by [Alice Griffin](https://twitter.com/AliceLGriff) + [Sarah Ann Adams](https://twitter.com/_sarahannadams) for the Fall 2018 [Pratt Institute School of Information](https://www.pratt.edu/academics/information/) course [Programming for Cultural Heritage](http://pfch.nyc/). Visualizations and further information can be found at http://bit.ly/some-new-classics.
+This project was created by [Alice Griffin](https://twitter.com/AliceLGriff) + [Sarah Ann Adams](https://twitter.com/_sarahannadams) for the Fall 2018 [Pratt Institute School of Information](https://www.pratt.edu/academics/information/) course [Programming for Cultural Heritage](http://pfch.nyc/). Visualizations and further information can be found at bit.ly/some_new_classics.
