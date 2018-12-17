@@ -20,9 +20,13 @@ for book_item in book_titles:
 	combined_data['book_id'] = book_id
 	combined_data['title'] = title
 	combined_data['book_page_url'] = book_page_url
-	combined_data['image_url'] = image_url
-
+	combined_data['image_url'] = image_url	
 	
+	#appending dictionary to list of books	
+	book_list.append(combined_data['book_id'])
+	book_list.append(combined_data['title'])
+	book_list.append(combined_data['book_page_url'])
+	book_list.append(combined_data['image_url'])
 	
 # opening json file to loop through it to pull out what I want	
 authors = json.load(open('19_author_geospatial_data.json'))
@@ -51,8 +55,18 @@ for author_item in authors['rows']:
 	combined_data['place_of_death_country'] = place_of_death_country
 	combined_data['place_of_death_coordinate_location'] = place_of_death_coordinate_location
 	combined_data['statelessness'] = statelessness  
-
-
+	
+	# 	appending dictionary to list of books	
+	book_list.append(combined_data['nyrb_author_name'])	
+	book_list.append(combined_data['wikidata_author_name'])
+	book_list.append(combined_data['wikidata_q_id'])
+	book_list.append(combined_data['place_of_birth_city'])
+	book_list.append(combined_data['place_of_birth_country'])
+	book_list.append(combined_data['place_of_birth_coordinate_location'])
+	book_list.append(combined_data['place_of_death_city'])
+	book_list.append(combined_data['place_of_death_country'])
+	book_list.append(combined_data['place_of_death_coordinate_location'])
+	book_list.append(combined_data['statelessness'])
 	
 # opening json file to loop through it to pull out what I want	
 subtitles = json.load(open('14_subtitles.json'))
@@ -62,9 +76,10 @@ for subtitle_item in subtitles:
 	subtitle = subtitle_item['subtitle']
 
 # 	assigning keys and values for the new dictionary
-	combined_data['subtitle'] = subtitle
-
+	combined_data['subtitle'] = subtitle	
 	
+	# 	appending dictionary to list of books	
+	book_list.append(combined_data['subtitle'])
 	
 # opening json file to loop through it to pull out what I want	
 languages = json.load(open('10_language_list.json'))
@@ -75,8 +90,9 @@ for lang_item in languages:
 
 # 	assigning keys and values for the new dictionary
 	combined_data['original_language'] = original_language	
-
-
+	
+	# 	appending dictionary to list of books	
+	book_list.append(combined_data['original_language'])
 	
 # opening json file to loop through it to pull out what I want
 book_info = json.load(open('06_classics_info.json'))
@@ -89,33 +105,10 @@ for info_item in book_info:
 # 	assigning keys and values for the new dictionary
 	combined_data['isbn'] = isbn
 	combined_data['nyrb_pub_date'] = pub_date
-
-
 	
-	#appending dictionary to list of books	
-	book_list.append(combined_data['book_id'])
-	book_list.append(combined_data['title'])
-	book_list.append(combined_data['book_page_url'])
-	book_list.append(combined_data['image_url'])
-	# 	appending dictionary to list of books	
-	book_list.append(combined_data['nyrb_author_name'])	
-	book_list.append(combined_data['wikidata_author_name'])
-	book_list.append(combined_data['wikidata_q_id'])
-	book_list.append(combined_data['place_of_birth_city'])
-	book_list.append(combined_data['place_of_birth_country'])
-	book_list.append(combined_data['place_of_birth_coordinate_location'])
-	book_list.append(combined_data['place_of_death_city'])
-	book_list.append(combined_data['place_of_death_country'])
-	book_list.append(combined_data['place_of_death_coordinate_location'])
-	book_list.append(combined_data['statelessness'])
-	# 	appending dictionary to list of books	
-	book_list.append(combined_data['subtitle'])
-	# 	appending dictionary to list of books	
-	book_list.append(combined_data['original_language'])	
 	# 	appending dictionary to list of books	
 	book_list.append(combined_data['isbn'])	
-	book_list.append(combined_data['nyrb_pub_date'])
-	
+	book_list.append(combined_data['nyrb_pub_date'])	
 	
 # putting this into a new json file 	
 json.dump(book_list, open("allData_NewClassics.json", "w"), indent=2)
