@@ -1,10 +1,20 @@
 {
   "book_id": 515,
   "title": "A Book of Mediterranean Food",
+  "subtitle": "No",
+  "nyrb_author_name": "Elizabeth David",
+  "wikidata_author_name": "Elizabeth David",
+  "wikidata_q_id": "Q4944293",
+  "place_of_birth_city": "Folkington",
+  "place_of_birth_country": "England",
+  "place_of_birth_coordinate_location": "50.8141131,0.1917004",
+  "place_of_death_city": "London",
+  "place_of_death_country": "England",
+  "place_of_death_coordinate_location": "51.507222,-0.1275",
+  "statelessness": null,
+  "original_language": "English",
   "book_page_url": "https://www.nyrb.com/collections/classics/products/a-book-of-mediterranean-food",
   "image_url": "https://cdn.shopify.com/s/files/1/0726/9203/products/mediterranean-food_large.jpg?v=1528394426",
-  "original_language": "English",
   "isbn": "9781590170038",
-  "nyrb_pub_date": "April 30, 2002",
-  "subtitle": "No"
+  "nyrb_pub_date": "April 30, 2002"
 }

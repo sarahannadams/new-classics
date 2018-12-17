@@ -10,7 +10,7 @@ book_titles = json.load(open('02_classics.json', 'r'))
 languages = json.load(open('10_language_list.json'))
 book_info = json.load(open('06_classics_info.json', 'r'))
 subtitles = json.load(open('14_subtitles.json', 'r'))
-authors = json.load(open('18_author_geospatial_data.json', 'r'))
+authors = json.load(open('19_author_geospatial_data.json', 'r'))
 
 for item in book_titles:
 	book_id = item['id']
@@ -18,19 +18,46 @@ for item in book_titles:
 	book_page_url = item['book_page_url']
 	image_url = item['image_url']
 
-	for item in languages:
-		original_language = item['original_language']
+for item in languages:
+	original_language = item['original_language']
 
-		for item in book_info:
-			isbn = item['isbn']
-			pub_date = item['pub_date']
+for item in book_info:
+	isbn = item['isbn']
+	pub_date = item['pub_date']
 
-			for item in subtitles:	
-				subtitle = item['subtitle']
+for item in subtitles:	
+	subtitle = item['subtitle']
+	
+for item in authors['rows']:
+	nyrb_author_name = item['web_scrape_name']
 	
 combined_data['book_id'] = book_id
 combined_data['title'] = title
 combined_data['subtitle'] = subtitle
+combined_data['nyrb_author_name'] = nyrb_author_name
+
+	
+combined_data['nyrb_author_name'] = {}
+for element in combined_data['nyrb_author_name']:
+	wikidata_author_name = element['openrefine_author_name']
+	wikidata_q_id = element['wikidata_q_id']
+	place_of_birth_city = element['place_of_birth_city']
+	place_of_birth_country = element['place_of_birth_country']
+	place_of_birth_coordinate_location = element['place_of_birth_coordinate location']
+	place_of_death_city = element['place_of_death_city']
+	place_of_death_country = element['place_of_death_country']
+	place_of_death_coordinate_location = element['place_of_death_coordinate_location']
+	statelessness = element['statelessness']
+
+combined_data['nyrb_author_name']['wikidata_author_name'] = wikidata_author_name	
+combined_data['nyrb_author_name']['wikidata_q_id'] = wikidata_q_id
+combined_data['nyrb_author_name']['place_of_birth_city'] = place_of_birth_city
+combined_data['nyrb_author_name']['place_of_birth_country'] = place_of_birth_country
+combined_data['nyrb_author_name']['place_of_birth_coordinate_location'] = place_of_birth_coordinate_location
+combined_data['nyrb_author_name']['place_of_death_city'] = place_of_death_city
+combined_data['nyrb_author_name']['place_of_death_country'] = place_of_death_country
+combined_data['nyrb_author_name']['place_of_death_coordinate_location'] = place_of_death_coordinate_location
+combined_data['nyrb_author_name']['statelessness'] = statelessness  
 combined_data['original_language'] = original_language
 combined_data['book_page_url'] = book_page_url
 combined_data['image_url'] = image_url
