@@ -1,6 +1,6 @@
 ## some new classics
 
-<p align="center"><a href="www.bit.ly/some_new_classics" target="_blank"><img src="https://raw.githubusercontent.com/sarahannadams/some-new-classics/master/header.png" alt="some new classics header"></a></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sarahannadams/some-new-classics/master/header.png" alt="some new classics header"></p>
 
 by [Alice Griffin](https://twitter.com/AliceLGriff) + [Sarah Ann Adams](https://twitter.com/_sarahannadams) for [Pratt Institute School of Information](https://www.pratt.edu/academics/information/) course [Programming for Cultural Heritage](http://pfch.nyc/). 
 ### about
