@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/sarahannadams/some-new-classics/master/header.png" alt="some new classics header"></p>
 
-by [Alice Griffin](https://twitter.com/AliceLGriff) + [Sarah Ann Adams](https://twitter.com/_sarahannadams) for [Pratt Institute School of Information](https://www.pratt.edu/academics/information/) course [Programming for Cultural Heritage](http://pfch.nyc/). 
+by [Alice Griffin](https://twitter.com/AliceLGriff) + [Sarah Ann Adams](https://twitter.com/_sarahannadams) for [Pratt Institute School of Information](https://www.pratt.edu/academics/information/) course [Programming for Cultural Heritage](http://pfch.nyc/)
 ### about
 
 Countless lists of “100 Classics to Read” (or similar) exist for those works which have been defined as [“capital L” Literature](http://www.electricka.com/etaf/muses/literature/literature_popups/whats_literature.htm), works that stand the test of time. When one thinks about reading “the classics” as it pertains to literature, certain books and authors come to mind, many of which are books from white and/or eurocentric voices. How the link between what is considered “good literature” and the prevailing default toward white and eurocentric storytelling be addressed so that more space can be made for broader and more varied voices?
