@@ -1,6 +1,9 @@
-## SOME NEW CLASSICS
-By [Alice Griffin](https://twitter.com/AliceLGriff) + [Sarah Ann Adams](https://twitter.com/_sarahannadams) for [Pratt Institute School of Information](https://www.pratt.edu/academics/information/) course [Programming for Cultural Heritage](http://pfch.nyc/). 
-### About
+## some new classics
+
+<p align="center"><a href="www.bit.ly/some_new_classics" target="_blank"><img src="https://raw.githubusercontent.com/sarahannadams/some-new-classics/master/header.png" alt="some new classics header"></a></p>
+
+by [Alice Griffin](https://twitter.com/AliceLGriff) + [Sarah Ann Adams](https://twitter.com/_sarahannadams) for [Pratt Institute School of Information](https://www.pratt.edu/academics/information/) course [Programming for Cultural Heritage](http://pfch.nyc/). 
+### about
 
 Countless lists of “100 Classics to Read” (or similar) exist for those works which have been defined as [“capital L” Literature](http://www.electricka.com/etaf/muses/literature/literature_popups/whats_literature.htm), works that stand the test of time. When one thinks about reading “the classics” as it pertains to literature, certain books and authors come to mind, many of which are books from white and/or eurocentric voices. How the link between what is considered “good literature” and the prevailing default toward white and eurocentric storytelling be addressed so that more space can be made for broader and more varied voices?
 
@@ -8,10 +11,8 @@ This project “Some New Classics” takes a close look at the  [NYRB Classics](
 
 Visualizations and further information can be found at [bit.ly/some_new_classics](http://bit.ly/some_new_classics).
 
-<p align="center"><a href="www.bit.ly/some_new_classics" target="_blank"><src="https://raw.githubusercontent.com/sarahannadams/some-new-classics/master/header.png" alt="some new classics header"></a></p>
-
 ***
-### Workflow
+### workflow
 * The script '**01_scrape_classics.py**' looped through each of the nine pages of www.nyrb.com/collections/classics and extracted book title, book author, book URL, and book Image URL. For each item in this list, we also assigned a numeric ID to each book . This information was written to the file '**02_classics.json**'.
 * The script '**03_classics_to_csv.py**' converted '**02_classics.json**' to '**04_classics.csv**'. 
 * The script '**05_scrape_classics_urls.py**' pulled in  each URL from '**04_classics.csv**', and scraped the author statement (e.g., "by Margarita Liberaki, translated from the Greek by Karen Van Dyck"), ISBN, and NYRB publish date from each URL. This information was written to the file '**06_classics_info.json**', which includes the IDs for each book.
