@@ -8,6 +8,8 @@ This project “Some New Classics” takes a close look at the  [NYRB Classics](
 
 Visualizations and further information can be found at [bit.ly/some_new_classics](http://bit.ly/some_new_classics).
 
+<p align="center"><a href="www.bit.ly/some_new_classics" target="_blank"><src="https://raw.githubusercontent.com/sarahannadams/some-new-classics/master/header.png" alt="some new classics header"></a></p>
+
 ***
 ### Workflow
 * The script '**01_scrape_classics.py**' looped through each of the nine pages of www.nyrb.com/collections/classics and extracted book title, book author, book URL, and book Image URL. For each item in this list, we also assigned a numeric ID to each book . This information was written to the file '**02_classics.json**'.
